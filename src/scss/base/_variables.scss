@@ -13,6 +13,10 @@ $spacing: 20px;
 $page-max-width: 1400px;
 $page-min-width: 320px;
 
+// Grid
+$grid-columns: 12;
+$grid-gutter: $spacing;
+
 // Radius
 $radius: 0;
 $box-radius: $radius;
