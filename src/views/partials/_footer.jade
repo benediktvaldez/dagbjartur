@@ -1,4 +1,5 @@
 
 footer
-  a(href='/about' section='about')
+  if content.about.meta.enabled
+    a(href='/about' section='about')
   p Dagbjartur Gunnar Lúðvíksson | <a href='mailto:hrasal@dagbjartur.me'>hrasal@dagbjartur.me</a> | S: <a href='tel:+3546636219'>663 6219</a>

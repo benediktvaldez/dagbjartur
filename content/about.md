@@ -1,6 +1,8 @@
 ---
 title: Um Dagbjart
 
+enabled: true
+
 name: Dagbjartur Gunnar Lúðvíksson
 email: hello@dagbjartur.me
 phone: 6636219
