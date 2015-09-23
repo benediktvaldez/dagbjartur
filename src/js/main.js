@@ -15,12 +15,12 @@ require.config({
     analytics: 'modules/analytics',
 
     // Scripts
+    initsite: 'modules/init-site',
     dagbjartur: 'modules/dagbjartur',
   }
 });
 
 require([
-  'init/router',
-
+  'initsite',
   'dagbjartur',
 ]);
