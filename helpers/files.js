@@ -50,15 +50,16 @@ files.getMarkdownFilesRecursively = function(parentFolder) {
 
       response[fileName] = index || {};
       response[fileName]['isFolder'] = true;
+      response[fileName]['id'] = cleanFileName;
       response[fileName]['path'] = fullPath;
       response[fileName]['files'] = files.getMarkdownFilesRecursively(filePath);
 
     } else if (fileName.indexOf('.md') > -1) {
 
-      if (fileName !== 'index.md' && parentFolderName && parentFolderName !== 'content') {
+      if (fileName !== 'index.md' && (parentFolderName && parentFolderName !== 'content')) {
         response[cleanFileName] = files.getMarkdownFile(filePath);
         response[cleanFileName]['path'] = fullPath.replace('.md', '');
-      } else {
+      } else if (parentFolderName && parentFolderName === 'content') {
         response[cleanFileName] = files.getMarkdownFile(filePath);
         response[cleanFileName]['path'] = fullPath.replace('.md', '').replace('/index', '/');
       }

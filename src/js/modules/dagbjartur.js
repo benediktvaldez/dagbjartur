@@ -14,4 +14,14 @@ onLoad(function() {
     event.preventDefault();
     return false;
   });
+
+  $('a[href^="#group"').off('click.group').on('click.group', (event) => {
+    var $el = $(event.currentTarget);
+    var group = $el.attr('group');
+
+    $('ul[group="' + group + '"]').toggleClass('show');
+
+    event.preventDefault();
+    return false;
+  });
 });

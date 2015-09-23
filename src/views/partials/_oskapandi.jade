@@ -3,8 +3,4 @@ section.right.brown(name='oskapandi' align='right')
   a(href='/oskapandi' section='oskapandi')
   h1=content.index.meta.oskapandiTitle
   nav
-    a(href='/oskapandi/pistlar'): span Pistlar
-    a(href='/oskapandi/gagnryni'): span Gagnrýni
-      //- Plötur
-      //- Kvikmyndir
-    a(href='/oskapandi/ritgerdir'): span Fræðilegar ritgerðir
+    +navItems(content.oskapandi.files)

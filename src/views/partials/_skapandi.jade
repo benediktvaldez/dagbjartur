@@ -3,10 +3,4 @@ section.left.blue(name='skapandi' align='left')
   a(href='/skapandi' section='skapandi')
   h1=content.index.meta.skapandiTitle
   nav
-    a(href='/skapandi/kvaedi'): span Kvæði
-    a(href='/skapandi/thydd-kvaedi'): span Þýdd kvæði
-    a(href='/skapandi/smasogur'): span Brot úr smásögum
-    a(href='/skapandi/sexordasogur'): span Sexorðasögur
-    a(href='/skapandi/ordskridur'): span Orðskriður
-    a(href='/skapandi/orsogur'): span Örsögur
-    a(href='/skapandi/tist'): span Tíst
+    +navItems(content.skapandi.files)

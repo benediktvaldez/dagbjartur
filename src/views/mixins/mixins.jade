@@ -1,0 +1,22 @@
+
+mixin navChapter(item)
+  a(href='#group-' + item.id group=item.id): span=item.meta.title
+
+mixin navItem(item)
+  a(href=item.path): span=item.meta.title
+
+mixin navGroup(group)
+  +navChapter(group)
+  ul(group=group.id)
+    each sub in group.files
+      li
+        +navItem(sub)
+
+mixin navItems(files)
+  ul
+    each item in files
+      li
+        if item.isFolder
+          +navGroup(item)
+        else
+          +navItem(item)

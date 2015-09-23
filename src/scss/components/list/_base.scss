@@ -1,8 +1,40 @@
 
 ul {
+  @extend %reset-list;
+  margin: 0;
   padding: 0;
+
   li {
-    margin-bottom: .5em;
+    margin: 0;
+    padding: 0;
+
+    ul {
+      display: none;
+      padding: 0 $spacing/2;
+
+      &.show {
+        display: block;
+      }
+    }
+  }
+
+  [align='left'] nav & {
+
+    li {
+
+      ul {
+        border-right: 1px solid rgba(white,0.8);
+      }
+    }
+  }
+  [align='right'] nav & {
+
+    li {
+
+      ul {
+        border-left: 1px solid rgba(white,0.8);
+      }
+    }
   }
 }
 

@@ -5,7 +5,7 @@ nav {
   opacity: 0;
   transition: opacity $trans-dur, transform $trans-dur-slower;
 
-  > a {
+  a {
     display: block;
 
     line-height: 22px;
