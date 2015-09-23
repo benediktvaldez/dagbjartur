@@ -1,20 +1,17 @@
-import $ from 'jquery';
+// import $ from 'jquery';
 import onLoad from 'onLoad';
 import global from 'global';
 
-global.setAttr('load-state', 'post-load');
-
 onLoad(function() {
-  // domReady
-  global.setAttr('load-state', 'ready');
+  global.setAttr('section', '');
 
-  $(document).on('ajax-loading', function(){
-    global.setAttr('load-state', 'ajax-loading');
+  $('[section]').off('click.section').on('click.section', (event) => {
+    var $el = $(event.currentTarget);
+    var section = $el.attr('section');
+
+    global.setAttr('section', section);
+
+    event.preventDefault();
+    return false;
   });
-  $(document).on('ajax-loaded loaded', function(){
-    global.setAttr('load-state', 'ready');
-  });
-}, function() {
-  // on ajax-loaded
-  global.setAttr('load-state', 'ajax-loaded');
 });
