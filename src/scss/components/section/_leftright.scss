@@ -1,0 +1,22 @@
+
+section {
+
+  &[align='left'],
+  &[align='right'] {
+    width: 50%;
+
+    > h1 {
+      position: absolute;
+      top: 50%;
+      z-index: 6;
+
+      margin: 0;
+      padding: 0 $spacing;
+      max-width: 280px;
+
+      transition: opacity $trans-dur, transform $trans-dur-slower, top $trans-dur-slower;
+      transition-delay: $trans-dur-slower;
+    }
+  }
+
+}

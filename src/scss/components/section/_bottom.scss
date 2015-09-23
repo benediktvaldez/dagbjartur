@@ -1,0 +1,19 @@
+
+section {
+  &[align='bottom'] {
+    z-index: 3;
+    left: 0; right: 0;
+    width: 100%;
+    transform: translate3d(0,100%,0);
+
+    > h1 {
+      text-align: right;
+      transform: translate3d(0,-100%,0);
+      right: 0;
+    }
+  }
+
+  html[data-section='about'] &[name='about'] {
+    transform: translate3d(0,40px,0);
+  }
+}

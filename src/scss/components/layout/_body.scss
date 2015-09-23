@@ -1,24 +1,21 @@
 
 pagewrap {
   overflow: hidden;
-  display: block;
-
-  width: 100%;
-  height: 100%;
-
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-
   z-index: 50;
-  padding: 0 0 $spacing*3;
 
-  background: white;
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
 
   opacity: 1;
   transition: opacity $trans-dur-slow;
 
   html[data-load-state="loading"] & {
-    opacity: 0;
+    // opacity: 0;
   }
 }
 

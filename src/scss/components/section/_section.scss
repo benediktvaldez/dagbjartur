@@ -1,0 +1,41 @@
+
+section {
+  overflow: hidden;
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  z-index: 1;
+
+  display: block;
+  margin: 0;
+  padding: 0;
+
+  transition: transform $trans-dur-slower, width $trans-dur-slower, z-index 1ms ease $trans-dur-slower;
+
+  > nav {
+    position: absolute;
+    z-index: 5;
+  }
+
+  > a {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    z-index: 10;
+
+    display: block;
+    margin: 0;
+    padding: 0;
+
+    transform: translate3d(0,-100%,0);
+  }
+
+  @each $name, $color, $text in $colorArray {
+    &.#{$name} {
+      background-color: $color;
+      color: $text;
+
+      @if lightness($text) > lightness($color) {
+        -webkit-font-smoothing: antialiased;
+      }
+    }
+  }
+}

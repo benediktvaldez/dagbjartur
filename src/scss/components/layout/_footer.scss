@@ -14,7 +14,14 @@ footer {
 
   background-color: $color-dark;
 
+  transform: translate3d(0,0,0);
+  transition: transform $trans-dur-slower;
+  transition-delay: $trans-dur-slower;
+
   p {
+    position: relative;
+    z-index: 5;
+
     margin-bottom: $spacing/2;
     line-height: $spacing;
     font-size: 12px;
@@ -22,10 +29,27 @@ footer {
     color: $color-light;
   }
 
+  > a {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    z-index: 10;
+
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+
   a {
     color: $color-light;
     &:hover {
       color: white;
     }
+  }
+
+  html[data-section='about'] &,
+  html[data-load-state="post-load"] &,
+  html[data-load-state="loading"] & {
+    transform: translate3d(0,100%,0);
+    transition-delay: 0ms;
   }
 }

@@ -1,0 +1,20 @@
+
+section {
+  &[align='right'] {
+    left: auto;
+    right: 0;
+
+    > h1 {
+      left: 0;
+      text-align: left;
+      transform: translate3d(0,-44px,0);
+    }
+
+    > nav {
+      top: 152px;
+      left: 0;
+      text-align: left;
+      transform: translate3d(-100%,0,0);
+    }
+  }
+}
