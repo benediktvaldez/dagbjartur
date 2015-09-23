@@ -55,9 +55,12 @@ files.getMarkdownFilesRecursively = function(parentFolder) {
 
     } else if (fileName.indexOf('.md') > -1) {
 
-      if (fileName !== 'index.md') {
+      if (fileName !== 'index.md' && parentFolderName && parentFolderName !== 'content') {
         response[cleanFileName] = files.getMarkdownFile(filePath);
         response[cleanFileName]['path'] = fullPath.replace('.md', '');
+      } else {
+        response[cleanFileName] = files.getMarkdownFile(filePath);
+        response[cleanFileName]['path'] = fullPath.replace('.md', '').replace('/index', '/');
       }
 
     }
