@@ -1,10 +1,5 @@
 section.dark(name='about' align='bottom')
   h1 ABOUT
-  nav
-    a(href='/skapandi/kvaedi'): span Kvæði
-    a(href='/skapandi/thydd-kvaedi'): span Þýdd kvæði
-    a(href='/skapandi/smasogur'): span Brot úr smásögum
-    a(href='/skapandi/sexordasogur'): span Sexorðasögur
-    a(href='/skapandi/ordskridur'): span Orðskriður
-    a(href='/skapandi/orsogur'): span Örsögur
-    a(href='/skapandi/tist'): span Tíst
+
+  row: column(medium='10')
+    | !{content.about.html}
