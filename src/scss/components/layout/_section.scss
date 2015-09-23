@@ -1,0 +1,99 @@
+
+section {
+  overflow: hidden;
+  position: absolute;
+  top: 0; bottom: 0;
+  z-index: 1;
+
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 50%;
+
+  transition: width $trans-dur-slower, z-index 1ms ease $trans-dur-slower;
+
+  > h1 {
+    position: absolute;
+    top: 50%;
+
+    margin: 0;
+    padding: 0 $spacing;
+
+    transition: opacity $trans-dur, transform $trans-dur-slower, top $trans-dur-slower;
+  }
+
+  &.left {
+    left: 0;
+
+    > h1 {
+      text-align: right;
+      transform: translate3d(0,-100%,0);
+      right: 0;
+    }
+  }
+
+  &.right {
+    right: 0;
+
+    > h1 {
+      left: 0;
+      transform: translate3d(0,-44px,0);
+    }
+  }
+
+  > nav {
+    position: absolute;
+  }
+  &.left > nav {
+    top: 108px;
+    right: 0;
+    text-align: right;
+    transform: translate3d(100%,0,0);
+  }
+  &.right > nav {
+    top: 152px;
+    left: 0;
+    text-align: left;
+    transform: translate3d(-100%,0,0);
+  }
+
+  html[data-section='oskapandi'] &[name='oskapandi'],
+  html[data-section='skapandi'] &[name='skapandi'] {
+    width: calc(100% - 40px);
+
+    z-index: 2;
+    transition: width $trans-dur-slower ease 1ms, z-index 1ms;
+
+    > h1 {
+      top: 2%;
+      transform: translate3d(0,0,0);
+    }
+
+    > nav {
+      opacity: 1;
+      transform: translate3d(0,0,0);
+      transition-delay: $trans-dur-slower;
+    }
+  }
+
+  html[data-section='oskapandi'] &[name='skapandi'],
+  html[data-section='skapandi'] &[name='oskapandi'] {
+    > h1 {
+      opacity: 0;
+      transition-delay: $trans-dur-slower;
+    }
+    &.right > h1 {
+    }
+  }
+
+  @each $name, $color, $text in $colorArray {
+    &.#{$name} {
+      background-color: $color;
+      color: $text;
+
+      @if lightness($text) > lightness($color) {
+        -webkit-font-smoothing: antialiased;
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+
+p {
+  margin: 0 0 $spacing;
+}
+
+a {
+  transition: color $trans-dur-fast;
+  cursor: pointer;
+
+  color: $color-dark;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    color: mix(black,$color-dark,10%);
+  }
+
+  @each $name, $color, $text in $colorArray {
+    &.#{$name} {
+      color: $color;
+
+      &:hover {
+        color: mix(black,$color,10%);
+      }
+    }
+    .#{$name} & {
+      color: $text;
+
+      &:hover {
+        color: mix(black,$text,10%);
+      }
+    }
+  }
+}
+
+.text-tiny { font-size: rem-calc($font-size * 0.75); }
+.text-small { font-size: rem-calc($font-size  * 0.875); }
+.text-large { font-size: rem-calc($font-size * 1.125); }
+
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+
+@each $name, $lower, $upper in $breakArray {
+  @include respond-to('#{$name}-only') {
+    .#{$name}-text-center { text-align: center; }
+    .#{$name}-text-left { text-align: left; }
+    .#{$name}-text-right { text-align: right; }
+  }
+}

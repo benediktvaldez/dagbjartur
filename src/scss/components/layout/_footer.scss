@@ -1,0 +1,31 @@
+
+footer {
+  @extend %clearfix;
+
+  user-select: none;
+  cursor: default;
+
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 99;
+
+  margin: 0;
+  padding: $spacing/2 $spacing 0;
+
+  background-color: $color-dark;
+
+  p {
+    margin-bottom: $spacing/2;
+    line-height: $spacing;
+    font-size: 12px;
+    text-align: center;
+    color: $color-light;
+  }
+
+  a {
+    color: $color-light;
+    &:hover {
+      color: white;
+    }
+  }
+}

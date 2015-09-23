@@ -1,0 +1,17 @@
+
+nav {
+  padding: $spacing $spacing 0;
+
+  opacity: 0;
+  transition: opacity $trans-dur, transform $trans-dur-slower;
+
+  > a {
+    display: block;
+
+    line-height: 22px;
+    font-size: 18px;
+    font-family: $font-serif;
+
+    opacity: 0.8;
+  }
+}
