@@ -15,4 +15,4 @@ Samkvæmt Viggó er leikurinn að mörgu leyti tilbúinn og á bara eftir fínp�
 
 Oft helst í hendur að vera í sprotarekstri og að vera blankur. Fancy Pants Global þarf að vanda sig við markaðssetningu án þess að eyða í hana fjármunum sem ekki eru til staðar. Þess vegna þurfa þeir að treysta á svokallað *viral marketing*, sem meðal annars felst í því að vekja á sér athygli með sniðugum myndböndum sem fólk dreifir sín á milli á netinu. Samkvæmt Viggó eru þeir stór hópur af nördum sem þurfi að finna leiðir til að höfða til annarra nörda.
 
-Scene.is óskar Fancy Pants Global velgengni í sínum störfum og mun færa fréttir af þeim þegar nær dregur útgáfu leikjarins.
+Scene.is óskar Fancy Pants Global velgengni í sínum störfum og mun færa fréttir af þeim þegar nær dregur útgáfu leiksins.
