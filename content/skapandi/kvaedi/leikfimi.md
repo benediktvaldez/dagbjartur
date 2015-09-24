@@ -22,8 +22,6 @@ Auðnin er mín kvon og þessi vísa
 er minn einkasonur – ævistarf.  
 Aftur upp frá honum mun ég rísa.
 
---
-
 Þótt ól sé hert og ausan tóm  
 og útlit svert að vanda,  
 haltu þvert í héraðsdóm,  
