@@ -21,7 +21,7 @@ section {
     display: block;
     margin: 0;
     padding: $spacing $spacing 0;
-    width: 500px;
+    width: 500px + $spacing*2;
   }
 
   > nav {
