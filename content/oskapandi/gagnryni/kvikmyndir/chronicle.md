@@ -9,12 +9,12 @@ title: Chronicle
 
 **9.0**
 
-Hvað gerist þegar þrír venjulegir skóladrengir verða færir um að beisla hugarorku eftir að þeir komast í snertingu við óþekktan kristal?
+Hvað gerist þegar þrír venjulegir skóladrengir fá ofurkrafta?
 
-Chronicle segir frá þremur skólafélögum sem þekkjast misvel en eru fyrir hendingu allir á sama stað þegar furðulegur glóandi hlutur finnst ofan í holu í jörðinni. Einn þeirra er með videomyndavél og samanstendur myndin að mestu leyti af upptökum úr vélinni hans. Í kjölfar fundarins fáum við að fylgjast með því hvernig þeir nýta nýfengna hæfileika sína, sumir til góðs, aðrir til ills.
+Chronicle segir frá þremur skólafélögum sem þekkjast misvel en eru fyrir hendingu allir á sama stað og finna furðulegan glóandi hlut í jörðinni. Einn þeirra er með myndbandsupptökuvél og samanstendur Chronicle að mestu leyti af upptökum úr vélinni hans. Í kjölfar fundarins fáum við að fylgjast með því hvernig þeir uppgötva og nýta nýfengna hæfileika sína, sumri til góðs en aðrir til ills.
 
-Því má kasta fram að stóri munurinn á Chronicle og öðrum ofurhetjumyndum sé hinn sami og munurinn á Cloverfield og þeim skrímslamyndum sem áður höfðu komið - cameruvinnan. Sú staðhæfing væri þó ekki fullkomlega sannleikanum samkvæm því Chronicle veitir meiri og áhugaverðari innsýn í hugarheim persóna en þær ofurhetjumyndir sem á undan hafa komið. Þar eru hagir illmennisins m.a. skoðaðir og sýnt hvernig ytri aðstæður gera hann að fórnarlambi og leiða hann inn á myrku brautina.
+Stóri munurinn á Chronicle og öðrum ofurhetjumyndum (fyrir utan *found footage* kvikmyndatökustílinn) er að Chronicle veitir dýpri og áhugaverðari innsýn í hugarheim persónanna. Þar eru hagir illmennisins m.a. skoðaðir og sýnt hvernig ytri aðstæður gera hann að fórnarlambi og leiða hann á myrku brautina.
 
-Í myndinni er margt klisjukennt og mörg kvikmyndaminni sem koma fyrir. Hlutir sem virðast aldrei bregðast eins og Spoiler alert: hörundsdökki maðurinn deyr fyrstur. Það má þó segja með nokkurri vissu að öll sú klisja sem Chronicle býður upp á sé klisja sem við fáum ekki nóg af og klisja sem við beinlínis leitum í að sjá.
+Í myndinni er margt klisjukennt og mörg kvikmyndaminni sem koma fyrir. Hlutir sem virðast aldrei bregðast eins og Spoiler alert: hörundsdökki maðurinn deyr fyrstur. Þó er flest klisja myndarinnar klisja sem við fáum ekki nóg af og leitumst jafnvel eftir að sjá.
 
-Án frekari málalenginga er ég tilbúinn til að halda því blákalt fram að Chronicle sé næstbesta ofurhetjumynd allra tíma og nauðsynleg að sjá fyrir alla sem gaman hafa af smá fantasíu í súpuna sína.
+Án frekari bollalenginga er ég tilbúinn til að halda því blákalt fram að Chronicle sé næst besta ofurhetjumynd sem komið hefur út og nauðsynleg áhorfs fyrir alla sem gaman hafa af smá fantasíu í súpuna sína.
