@@ -12,13 +12,15 @@ section {
   transition: transform $trans-dur-slower, width $trans-dur-slower, z-index 1ms ease $trans-dur-slower;
 
   > inner {
+    @extend .y-scroll;
+    
     position: absolute;
-    top: 5%;
-    bottom: calc(5% + 40px);
+    top: 0;
+    bottom: 40px;
 
     display: block;
     margin: 0;
-    padding: 0;
+    padding: $spacing $spacing 0;
     width: 500px;
   }
 
