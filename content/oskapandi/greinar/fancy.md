@@ -3,7 +3,7 @@ order: 3
 title: Fancy Pants Global
 ---
 
-##Íslenskir leikjaframleiðendur: Fancy Pants Global
+## Íslenskir leikjaframleiðendur: Fancy Pants Global
 
 *Birt á scene.is 27. október 2011.*
 
