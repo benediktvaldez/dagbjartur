@@ -31,8 +31,7 @@ mixin navItems(files)
 
 mixin article(file, parent, group)
   article(parent=parent group=group item=file.id)
-    h2=file.meta.title
-    div !{file.html}
+    | !{file.html}
 
 mixin articles(files, parent, group)
   - parent = parent || '';

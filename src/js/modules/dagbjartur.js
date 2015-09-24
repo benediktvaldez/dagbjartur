@@ -27,7 +27,7 @@ onLoad(function() {
     if ($ul.hasClass('show')) {
       $ul.removeClass('show');
     } else {
-      $('ul[group]').removeClass('show');
+      $ul.parent().siblings('li').find('ul[group]').removeClass('show');
       $ul.addClass('show');
     }
 

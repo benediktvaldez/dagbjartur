@@ -5,13 +5,29 @@ nav {
   opacity: 0;
   transition: opacity $trans-dur, transform $trans-dur-slower;
 
+  line-height: 1.5em;
+  font-size: 18px;
   a {
     display: block;
 
-    line-height: 22px;
-    font-size: 18px;
     font-family: $font-serif;
 
     opacity: 0.8;
+  }
+
+  ul {
+
+    li {
+      ul {
+        font-size: 90%;
+
+        [align='left'] & {
+          border-right: 1px solid rgba(white,0.8);
+        }
+        [align='right'] & {
+          border-left: 1px solid rgba($color-dark,0.8);
+        }
+      }
+    }
   }
 }
