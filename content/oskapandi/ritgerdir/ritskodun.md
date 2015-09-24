@@ -14,6 +14,6 @@ Saga fréttamiðla er eldri en saga prentsins og sennilega eldri en saga ritmál
 Í dag er prentfrelsið fellt undir vernd tjáningarfrelsis, sem (af augljósum ástæðum) er talið veita víðtækari vernd en hið fyrrnefnda. Má í því samhengi m.a. benda á orðalagsbreytingu prentfrelsisákvæðis stjórnarskrár lýðveldisins Íslands, nr. 33/1944,  sem gerð var með stjórnarskipunarlögum nr. 97/1995.
 
 ---
-[1] James Henry Breasted: *A History of Egypt*, bls. 243.
-[2] Jean-Noël Jeanneney: *Une histoire des médias*, bls. 60-63.
+[1] James Henry Breasted: *A History of Egypt*, bls. 243.  
+[2] Jean-Noël Jeanneney: *Une histoire des médias*, bls. 60-63.  
 [3] Til dæmis skilar leitarvélin Google nálægt 6000 niðurstöðum þegar leitað er að hugtakinu á íslensku. Sjá slóð í heimildaskrá.
