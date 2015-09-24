@@ -68,15 +68,26 @@ files.getMarkdownFilesRecursively = function(parentFolder) {
       }
 
     } else if (fileName.indexOf('.md') > -1) {
+      var newFile, fileIdentifier = cleanFileName;
+      if (fileName !== 'index.md' && parentFolderName && parentFolderName !== 'content') {
+        newFile = files.getMarkdownFile(filePath);
+        newFile['id'] = cleanFileName;
+        newFile['path'] = fullPath.replace('.md', '');
+        if (newFile && newFile.meta && newFile.meta.order) {
+          fileIdentifier = newFile.meta.order;
+        }
 
-      if (fileName !== 'index.md' && (parentFolderName && parentFolderName !== 'content')) {
-        response[cleanFileName] = files.getMarkdownFile(filePath);
-        response[cleanFileName]['id'] = cleanFileName;
-        response[cleanFileName]['path'] = fullPath.replace('.md', '');
+        response[fileIdentifier] = newFile;
       } else if (parentFolderName && parentFolderName === 'content') {
-        response[cleanFileName] = files.getMarkdownFile(filePath);
-        response[cleanFileName]['id'] = cleanFileName;
-        response[cleanFileName]['path'] = fullPath.replace('.md', '').replace('/index', '/');
+        newFile = files.getMarkdownFile(filePath);
+        newFile['id'] = cleanFileName;
+        newFile['path'] = fullPath.replace('.md', '').replace('/index', '/');
+
+        if (newFile && newFile.meta && newFile.meta.order) {
+          fileIdentifier = newFile.meta.order;
+        }
+
+        response[fileIdentifier] = newFile;
       }
 
     }
