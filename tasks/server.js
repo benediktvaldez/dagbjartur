@@ -10,7 +10,7 @@ module.exports = function(gulp) {
     var rewriteRules = [];
 
     // All paths that don't exist should redirect to index
-    rewriteRules.push('!\\.html|\\.js|\\.svg|\\.css|\\.png|\\.jpg$ /index.html [L]');
+    rewriteRules.push('!\\.html|\\.js|\\.svg|\\.css|\\.ico|\\.png|\\.jpg$ /index.html [L]');
     // var fs = require('fs');
     // var _ = require('underscore');
     // _.each(fs.readdirSync('./src/views'), function(fileName) {
