@@ -10,11 +10,15 @@ mixin navItem(item, group)
   a(href='#item-' + item.path group=group item=item.id): span=item.meta.title
 
 mixin navGroup(group)
-  +navChapter(group)
-  ul(group=group.id)
-    each sub in group.files
-      li
-        +navItem(sub, group)
+  if Object.keys(group.files).length > 0
+    +navChapter(group)
+    ul(group=group.id)
+      each sub in group.files
+        li
+          if sub.isFolder
+            +navGroup(sub)
+          else
+            +navItem(sub, group)
 
 mixin navItems(files)
   ul
