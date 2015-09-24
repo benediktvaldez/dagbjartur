@@ -47,12 +47,25 @@ files.getMarkdownFilesRecursively = function(parentFolder) {
 
       var index = files.getMarkdownFile(path.join(filePath, 'index.md'));
       index = !index.hasOwnProperty('error') && index.error !== 1 ? index : false;
+      var newFolder, identifier;
+      if (index && index.meta && index.meta.order) {
+        // Automatically sort if ORDER is provided
+        identifier = index.meta.order;
+      } else {
+        identifier = fileName;
+      }
+      newFolder = index || {};
+      newFolder['isFolder'] = true;
+      newFolder['id'] = cleanFileName;
+      newFolder['path'] = fullPath;
+      newFolder['files'] = files.getMarkdownFilesRecursively(filePath);
 
-      response[fileName] = index || {};
-      response[fileName]['isFolder'] = true;
-      response[fileName]['id'] = cleanFileName;
-      response[fileName]['path'] = fullPath;
-      response[fileName]['files'] = files.getMarkdownFilesRecursively(filePath);
+      if (fullPath.split('/').length > 2) {
+        response[identifier] = newFolder;
+      } else {
+        response['files'] = response['files'] || {};
+        response['files'][identifier] = newFolder;
+      }
 
     } else if (fileName.indexOf('.md') > -1) {
 
