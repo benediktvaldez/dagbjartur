@@ -3,7 +3,7 @@ order: 1
 title: Sprengjuhöllin
 ---
 
-##Sprengjuhöllin
+## Sprengjuhöllin
 
 *Brot úr plötudómi sem var birtur í Monitor, desember 2008.*
 
