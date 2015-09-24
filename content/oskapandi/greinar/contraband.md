@@ -9,7 +9,7 @@ title: Reykjavík-Rotterdam í Hollywood
 
 Margir sáu Reykjavík–Rotterdam þegar hún kom út og báru henni góða söguna. Þeirra á meðal (íslenskum aðstandendum myndarinnar til lukku) voru fjáðir kvikmyndaframleiðendur frá Vesturheimi, sem samstundis keyptu rétt til endurgerðar hennar.
 
-Baltasar Kormákur, sem fór með aðalhlutverkið í Reykjavík – Rotterdam, var fenginn til að leikstýra Contraband og stjórnaði þar einvala liði stórleikara á borð við Mark Wahlberg (**[Marky Mark](http://www.youtube.com/watch?v=-eSN8Cwit_s)**), J.K. Simmons, Giovanni Ribisi, Ben Foster og Kate Beckinsale.
+Baltasar Kormákur, sem fór með aðalhlutverkið í Reykjavík – Rotterdam, var fenginn til að leikstýra Contraband og stjórnaði þar einvala liði stórleikara á borð við Mark Wahlberg (**[Marky Mark](https://www.youtube.com/watch?v=Obupvycd8kY)**), J.K. Simmons, Giovanni Ribisi, Ben Foster og Kate Beckinsale.
 
 Endurgerðin hefur að sjálfsögðu verið staðfærð og fjallar því ekki um smygl á milli Íslands og Hollands. Má telja líklegt að siglt verði í myndinni á milli Bandaríkjanna og Bretlands en þau tvö eru talin upp sem framleiðslulönd hennar samkvæmt IMDB, eða að smyglið verði á milli Suður- og Norður-Ameríku.
 
