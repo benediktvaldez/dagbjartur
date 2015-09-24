@@ -4,8 +4,7 @@ title: Framhaldstónleikar Ómars Arnar Arnarsonar
 ---
 
 ## Framhaldstónleikar Ómars Arnar Arnarsonar
-
-### 29. apríl 2009
+***29. apríl 2009***
 
 [...] Næst tóku við nokkrar Bagatellur eftir William Walton, og mátti þar strax greina töluverðan mun á gítarleiknum. Bagatellurnar eru tregablandnar og fallegar. Það getur verið erfitt að komast í gegnum jafn þrungin verk án tilfinningar og spilaði Ómar þær gullfallega, án þess þó að glata fyrrnefndri ákveðni. Bagatellurnar eru líka í hægara tempói en svítan og gefa þannig meira svigrúm fyrir túlkun.
 
