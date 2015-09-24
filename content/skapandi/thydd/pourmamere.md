@@ -1,6 +1,6 @@
 ---
 order: 2
-Title: Pour ma mére
+title: Pour ma mére
 ---
 
 ## Pour ma mére
