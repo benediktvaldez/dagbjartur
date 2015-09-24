@@ -6,7 +6,7 @@ title: Framhaldstónleikar Ómars Arnar Arnarsonar
 ## Framhaldstónleikar Ómars Arnar Arnarsonar
 ***29. apríl 2009***
 
-[...] Næst tóku við nokkrar Bagatellur eftir William Walton, og mátti þar strax greina töluverðan mun á gítarleiknum. Bagatellurnar eru tregablandnar og fallegar. Það getur verið erfitt að komast í gegnum jafn þrungin verk án tilfinningar og spilaði Ómar þær gullfallega, án þess þó að glata fyrrnefndri ákveðni. Bagatellurnar eru líka í hægara tempói en svítan og gefa þannig meira svigrúm fyrir túlkun.
+[...] Næst tóku við nokkrar Bagatellur eftir William Walton, og mátti þar strax greina töluverðan mun á gítarleiknum. Bagatellurnar eru tregablandnar og fallegar. Ómar spilaði þær gullfallega, án þess að glata fyrrnefndri ákveðni. Bagatellurnar eru líka í hægara tempói en svítan og gefa þannig meira svigrúm fyrir túlkun.
 
 Síðustu verkin á dagskránni voru Granada og Asturias eftir Isaac Albéniz. Granada er líðandi og minnir á hafið en Asturias er suðrænt og ákveðin spenna bundin í verkinu. Báðum verkunum tókst Ómari að skila nær óaðfinnanlega frá sér og því lítið um þau að segja. Maður fékk á tilfinninguna að honum þættu þau þægilegri en fyrri verkin.
 
