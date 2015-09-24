@@ -3,18 +3,21 @@ order: 2
 title: Úlfur Úlfur
 ---
 
-## Úlfur Úlfur
+## Úlfur Úlfur - Lupus Lupus
 
-Hliðarproject tveggja meðlima Bróður Svartúlfs og trendhljómsveit sumarsins, Úlfur Úlfur, hefur sent frá sér sitt fyrsta myndband. Það er óhætt að segja að þessa dags hefur verið beðið með eftirvæntingu og er kominn tími á að fara í saumana á bæði laginu og myndbandinu.
+*Birt á scene.is 11. ágúst 2011*
 
-Tveimur dögum áður en myndbandið kom út var teaser settur á Youtube. Undir stefinu úr Inception sýndi hann okkur klippur af Arnari og Helga standandi í kirkjugarði og orðin ‘Úlfur Úlfur‘,‘ Lúpus Lúpus‘ og ‘Væntanlegt‘. Rökrétt ályktun: Við vorum að fara að fá kvikmyndastórvirki um matroskadrauma og átuberkla.
+Hliðarproject tveggja meðlima Bróður Svartúlfs og trendhljómsveit sumarsins, Úlfur Úlfur, hefur sent frá sér sitt fyrsta myndband. Óhætt er að segja að þessa dags hefur verið beðið af eftirvæntingu og fögnum við því að kominn sé tími á að fara í saumana á bæði laginu og myndbandinu.
 
-Stóðust væntingarnar? Engan veginn.
+Tveimur dögum áður en myndbandið kom út var teaser settur á Youtube. Undir stefinu úr Inception sýndi hann okkur klippur af Arnari og Helga standandi í kirkjugarði og orðin „Úlfur Úlfur“,„Lúpus Lúpus“ og „Væntanlegt“. Eina rökrétta ályktunin var að við mættum búast við kvikmyndastórvirki um matroskadrauma og átuberkla, úr smiðju hljómsveitarinnar.
+
+Stóðust væntingarnar? Alls ekki.
 
 Hvað kom í staðinn? Mögulega besta lag sumarsins og myndband fyllilega í stíl.
 
-Þegar myndbandið var loksins birt kom í ljós að við höfðum ekki verið að hlusta á Inception stefið í teasernum heldur upphafsstefið á laginu Lupus Lupus. Það vekur athygli að orðið Lupus kemur hvergi fram í laginu en Úlfur Úlfur gerir það ítrekað, sem fær mann til að gruna að lagið hafi átt að vera samnefnt hljómsveitinni þangað til að Berndsen og Bubbi stungu öðru lagi með því nafni á topplista útvarpsrásanna. Í kjölfarið er eiginlega óhjákvæmilegt að Úlfur Úlfur gefi út lag sem heitir Berndsen og Bubbi.
 
-En aftur að myndbandinu. Það hefst og við fáum að sjá meðlimi hljómsveitarinnar flytja lagið sitt í Hólavallakirkjugarði, sem einnig er þekktur sem hræðilegasti fokkíng staður á jarðríki. Engu er upp á töku eða vinnslu myndbandsins að kvarta en það má deila um hvort að hugmyndavinnu hafi verið ábótavant við gerð þess. Maður veltir því allavega fyrir sér þegar maður hlustar á lag þar sem concept og texti bíður upp á mun meira en strípaðar hreyfimyndir af flytjendunum á stökum tökustað.
+Þegar myndbandið var loksins birt kom í ljós að í teasernum höfðum við ekki heyrt Inception-stefið heldur upphafsstef lagsins Lupus Lupus. Athygli vekur að orðið *lupus* kemur hvergi fram í laginu en *Úlfur Úlfur* gerir það ítrekað, sem fær mann til að velta fyrir sér hvort lagið hafi í upphafi átt að vera samnefnt hljómsveitinni en hætt hafi verið við þegar Berndsen og Bubbi stungu öðru lagi með því nafni á topplista útvarpsrásanna. Í þessu ljósi er óhjákvæmilegt að Úlfur Úlfur muni gefa út lag með nafninu „*Berndsen og Bubbi*“.
 
-Óháð slíkum pælingum er myndbandið frábært og lagið fyrsta flokks. Meðlimir Úlfur Úlfur (Úlfs Úlfs?) koma manni á óvart með hverju einasta lagi og hafa ekki ennþá valdið vonbrigðum.  Án þess að fjölyrða frekar hvet ég þig til að hlusta hér fyrir neðan.
+Í upphafi myndbandsins standa meðlimir hljómsveitarinnar í Hólavallakirkjugarði, sem einnig er þekktur sem hræðilegasti fokkíng staður á jarðríki. Fáu er upp á töku eða vinnslu myndbandsins að kvarta. Lýsingin og litirnir eru mér ekki að skapi og deila má um hvort að hugmyndavinnu hafi verið ábótavant. Concept og texti lagsins bjóða að minnsta kosti upp á mun meira en strípaðar hreyfimyndir af flytjendunum á stökum tökustað.
+
+Óháð slíkum pælingum er myndbandið gott og lagið fyrsta flokks. Meðlimir Úlfur Úlfur (Úlfs Úlfs?) koma manni ítrekað á óvart og hafa ekki enn valdið vonbrigðum.  Án þess að fjölyrða frekar hvet ég þig til að horfa á myndbandið.
