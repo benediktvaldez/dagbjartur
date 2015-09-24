@@ -5,7 +5,7 @@ title: Börn Marleys
 
 ## Börn Marleys
 
-*Birt á scene.is 22. ágúst 2011.*
+*Hluti greinar sem birt var á scene.is 22. ágúst 2011.*
 
 Meistari Bob Marley kom víða við. Ekki bara í tónlistinni heldur í ástarlífinu líka (erfitt að finna mann sem lagði jafn mikið upp úr því að elska náungann). Nákvæmur fjöldi ávaxta ástarleikja reggíkóngsins er óþekktur en hátt í 20 manns hafa haldið því fram að helmingur gena sinna sé runninn undan Marley og sá yngsti þeirra fæddur eftir dauða hans. Þrátt fyrir þetta eru aðeins 11 einstaklingar viðurkenndir sem afkomendur hans á opinberri síðu Marleys.
 
