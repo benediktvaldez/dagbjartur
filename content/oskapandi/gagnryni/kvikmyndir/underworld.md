@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Underworld: Awakening
+title: Underworld Awakening
 ---
 
 ## Underworld: Awakening
