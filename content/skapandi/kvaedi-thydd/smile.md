@@ -11,7 +11,7 @@ Title: Smile
 |:---------------------------------------------|:---------------------------------------|
 | Smile though your heart is aching            | Brostu þótt hjarta sárni.  
 | Smile even though it's breaking.             | Brostu þótt gaman kárni.  
-| When there are clouds in the sky             | Þótt sólin sé sokkin í haf  
+| When there are clouds in the sky             | Þótt sólin sé sokkin í haf
 | you'll get by.                               | þú kemst af.  
 | If you smile through your fear and sorrow    | Ef þú brosir gegnt fári'og sorgum.  
 | Smile and maybe tomorrow                     | Brostu og kannski'á morgun,  
