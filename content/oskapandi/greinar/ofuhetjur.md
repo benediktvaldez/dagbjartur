@@ -13,7 +13,7 @@ title: Iron Man vs. Thor vs. Captain America
 
 Í fyrstu má ætla að Iron Man sé varnarlausastur þeirra allra. Ef Tony Stark fer úr búningnum til að brynna áfengis- og kvennþorsta sínum er hann jafn aumur og hver annar maður með gangráð, auk þess sem þekkt er að rafsegulhögg geta sett allan hans búnað úr skorðum.
 
-Þrátt fyrir að búningslaus sé Iron Man auðveld bráð voru lesendur myndasagnanna vaktir við það fyrir 4 árum hve mannlegur Captain America er. Hann getur til að mynda ekki varist, eða lifað af, [byssuskot í bakið](http://today.msnbc.msn.com/id/17499797/ns/today-entertainment/t/death-america-comic-book-hero-killed/#.ToPXVahqCSo). Stark er þá allavega skotheldur á meðan hann er Iron Man.
+Þrátt fyrir að búningslaus sé Iron Man auðveld bráð voru lesendur myndasagnanna vaktir við það fyrir 4 árum hve mannlegur Captain America er. Hann getur til að mynda ekki varist, eða lifað af, **[byssuskot í bakið](http://today.msnbc.msn.com/id/17499797/ns/today-entertainment/t/death-america-comic-book-hero-killed/#.ToPXVahqCSo)**. Stark er þá allavega skotheldur á meðan hann er Iron Man.
 
 Samkvæmt Cracked var veikleiki Thors í upphafi sá að hann mátti ekki vera skilinn frá Mjölni í meira en 60 sek. í senn án þess að missa allan kraft sinn. Þar sem sá veikleiki hefur verið máður út úr myndasögunum og hefur ekki komið fram í kvikyndunum. Má því segja að þrumuguðinn sé með öllu laus við mannlega veikleika.
 
