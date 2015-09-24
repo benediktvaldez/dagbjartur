@@ -9,18 +9,18 @@ title: Sexorðasögur
 
 Skýrsla: Hugsanlegt morð. Fórnarlamb 19, ólétt.
 
-
+-
 
 Kettlingurinn hefur níu líf, ekki satt?
 
-
+-
 
 Var háður lofti. Losnaði undan fíkninni.
 
-
+-
 
 Skáldið beitir orðum. Gagnslaust í stríði.
 
-
+-
 
 Mannkynið bilaði. Hringið í hönnuðinn, aftur.
