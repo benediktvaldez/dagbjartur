@@ -1,0 +1,16 @@
+---
+order: 3
+title: Sumarkveðja 
+---
+
+## Sumarkveðja 
+
+Ertu komið kæra sumar?  
+Kuldinn var að drepa mig.  
+Dátt ég fagna'er birkið brumar  
+og blessuð sólin mundar sig.
+
+En þótt ég sæki sólarverju  
+og set á eldinn angussteik,  
+ég hryggur man að hvað úr hverju  
+hverfur þú á nýjan leik.
