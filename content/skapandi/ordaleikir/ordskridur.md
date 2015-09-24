@@ -3,8 +3,9 @@ order: 1
 title: Orðskriður
 ---
 
-## Orðskriður 
-###*(e. word avalanche)*
+## Orðskriður
+
+*(e. word avalanche)*
 
 ### Létt
 
