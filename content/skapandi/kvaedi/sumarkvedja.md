@@ -3,7 +3,7 @@ order: 2
 title: Sumarkveðja 
 ---
 
-*Gamankvæði ort þegar tók að vora um miðjan júlí 2014. Fleiri kvæði má finna á **[síðunni minni á ljod.is](http://www.ljod.is/index.php/ljod/view_poet/3763)**.*
+*Gamankvæði ort þegar tók að vora um miðjan júlí 2014. Fleiri kvæði má finna á [síðunni minni á ljod.is](http://www.ljod.is/index.php/ljod/view_poet/3763).*
 
 ## Sumarkveðja 
 
