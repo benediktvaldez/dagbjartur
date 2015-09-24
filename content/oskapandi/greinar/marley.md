@@ -39,13 +39,13 @@ http://www.youtube.com/watch?v=t4IQ5KXpt0M
 Fjórða barn hans, sem vakið hefur athygli, er Ky-Mani. Hann átti Bob Marley með borðtennisstjörnunni Anita Belnavis. Í upphafi lá hjarta Ky-Manis hjá íþróttum. Hann keppti bæði í evrópskum- og amerískum fótbolta (hið síðara réttilega nefnt handegg) en móðir hans ýtti honum út í tónlistarnám sem að lokum fangaði bæði hug hans og hjarta. Í dag hefur hann gefið út 5 plötur og vinnur að þeirri sjöttu. Hann semur hann bæði dancehall, reggí og reggí hip hop en lætur ekki staðar numið í tónlist því hann hefur tekið að sér hlutverk í nokkrum jamaískum kvikmyndum.
 
 One Time af plötunni Radio:  
-http://www.youtube.com/watch?v=ylEAZ3wvJqw
+https://www.youtube.com/watch?v=Q_o6eX4Y5Tw
 
 **Damian Marley**
 
 Í sérstöku uppáhaldi hjá mér er yngsta (viðurkennda) barn hálfguðsins. Damian er sonur Bob Marleys og Cindy Breakspeare, sem sigraði keppnina Ungfrú heimur árið 1976. Hann er í dag með dredda niður á hæla og almenna kenningin er sú að þeir verði flóttaleiðin hans úr fangelsi, með því að skera þá af og binda í kaðal, ef hann verður tekinn fastur. 13 ára gamall stofnaði Damian hljómsveitina Shephards en hún leið undir lok um miðjan 10. áratug síðustu aldar, um svipað leyti og Damian hóf sólóferil sinn. Damian hefur á einhverjum tímapunkti unnið með hverjum einasta af fyrrnefndum hálfbræðrum sínum og mörgum mun stærri nöfnum, líkt og Gwen Stefani, Alicia Keys og Snoop Dogg. Hann hefur hlotið 3 Grammy-verðlaun og er eini reggílistamaðurinn sem unnið tvö Grammy-verðlaun sama kvöldið.
 
 Lagið Welcome to Jamrock af samnefndri plötu:  
-http://www.youtube.com/watch?v=FuiRMTJt4dE
+https://www.youtube.com/watch?v=_GZlJGERbvE
 
 [...]
