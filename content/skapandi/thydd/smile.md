@@ -3,7 +3,7 @@ order: 1
 title: Smile
 ---
 
-##Smile
+## Smile
 
 *Höf. texta John Turner og Geoffrey Parsons*
 
