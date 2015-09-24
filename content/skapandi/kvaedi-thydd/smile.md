@@ -1,6 +1,6 @@
 ---
-Order: 1
-Title: Smile
+order: 1
+title: Smile
 ---
 
 ##Smile
