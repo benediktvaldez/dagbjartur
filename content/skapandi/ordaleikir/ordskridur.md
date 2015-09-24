@@ -3,11 +3,12 @@ order: 1
 title: Orðskriður
 ---
 
-## Orðskriður (e. word avalanche)
+## Orðskriður 
+##*(e. word avalanche)*
 
 ### Létt
 
-Ég færi háværa aukaréttinn innfyrir ásamt hollenskum listmálara:  
+Ég færi háværa aukaréttinn inn fyrir ásamt hollenskum listmálara:  
 Læt inn meðlætin með lætin með Leyden.
 
 ### Miðlungs
@@ -15,14 +16,14 @@ Læt inn meðlætin með lætin með Leyden.
 Látinn kaupsýslumaður er alltaf að vekja norræn goð:  
 Æ sir Aisher ræsir Æsi.
 
-### Langsótt
+### Erfitt
 
 Ég segi söngvaranum í Bang Gang að fugl hafi slegið lítið öldurhús í Tævan:  
 Lóan barði lágan bar Đài Loan, Barði.
 
 ### Bónus
 
-Horfir hann á prestinn deila myndbandi af sér?  
+Horfir hann á prestinn deila myndbandi af sjálfum sér?  
 Sér‘ann sérann share-a sér?
 
 ### Bónus 2
