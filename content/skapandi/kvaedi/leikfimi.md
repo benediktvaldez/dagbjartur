@@ -1,9 +1,9 @@
 ---
 order: 4
-title: Leikfimi
+title: Sunnudagsleikfimi
 ---
 
-## Leikfimi
+## Sunnudagsleikfimi
 
 **Afdráttarháttur**  
 Tóma fljóð, tefldir smátt,  
