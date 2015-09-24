@@ -3,6 +3,8 @@ order: 1
 title: Fordómar
 ---
 
+## Fordómar
+
 *Pistli frá 8. ágúst 2015.*
 
 „Ég fer ekki í almenningssundlaugar því HIV-smituðum er hleypt ofan í.“
