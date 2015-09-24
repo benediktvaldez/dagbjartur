@@ -1,0 +1,19 @@
+
+mixin prettyDate(uglyDate)
+  daysAgo = ((((new Date() - uglyDate) / 1000) / 60) / 60) / 24
+  hours = uglyDate.getHours()
+  minutes = uglyDate.getMinutes()
+  ampm = hours >= 12 ? 'pm' : 'am'
+  hours = hours % 12
+  hours = hours ? hours : 12
+  minutes = minutes < 10 ? '0'+minutes : minutes
+  strTime = hours + ':' + minutes + ' ' + ampm
+
+  if daysAgo < 1
+    | Today at #{strTime}
+  else if daysAgo <= 7
+    weekDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    day = uglyDate.getDay()
+    | #{weekDays[day + 1]} at #{strTime}
+  else
+    | #{uglyDate.getMonth() + 1}/#{uglyDate.getDate()}/#{uglyDate.getFullYear()}

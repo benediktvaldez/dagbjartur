@@ -1,4 +1,7 @@
 
+include _prettyDate
+include _showJson
+
 mixin navChapter(item)
   a(href='#group-' + item.id group=item.id): span=item.meta.title
 

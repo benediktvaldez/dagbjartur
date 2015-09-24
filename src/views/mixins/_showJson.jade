@@ -1,0 +1,38 @@
+
+mixin showJson(myJsonObject, level)
+  if typeof level == 'undefined'
+    - var level = 0
+  - level++
+  blockquote(style='background-color:rgba(0,0,0,0.05)')
+    div(style='width:1em;text-align:center;background-color:#FFD100') #{level}
+    unless typeof myJsonObject == 'undefined'
+      each value, key in myJsonObject
+        if value instanceof Array
+          p #{key}: (Array[#{value.length}])
+            if value.length == 0
+              | &nbsp;(empty)
+            else
+              blockquote(style='background-color:white')
+                each aValue, aIndex  in value
+                  p [#{aIndex}]:
+                    if typeof aValue == 'undefined'
+                      | &nbsp;(empty)
+                    else if aValue instanceof Date
+                      mixin prettyDate(aValue)
+                    else if aValue instanceof Object
+                      | (Object)
+                      mixin showJson(aValue, level)
+                    else
+                      #{aValue}
+
+        else if value instanceof Date
+          p #{key}:&nbsp;
+            mixin prettyDate(value)
+        else if value instanceof Object
+          p #{key}:
+          if typeof value == 'undefined' || value.length == 0
+            | &nbsp;(empty)
+          else
+            mixin showJson(value, level)
+        else
+          p #{key}: !{value}
