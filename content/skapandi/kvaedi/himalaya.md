@@ -1,11 +1,13 @@
 ---
 order: 4
-title: Þak heimsins – Himalaya
+title: Þak heimsins
 ---
 
 ## Þak heimsins – Himalaya
 
-*Ort sem hluti af Ljóðgerðarmálsverkefninu*
+*Ort eftir pöntun, sem hluti af verkefni sem ég hóf fyrir nokkru og nefndi Ljóðgerðarmál. Fleiri kvæði úr því safni má finna á [facebooksíðu verkefnisins](https://www.facebook.com/ljodgerdarmal).*
+
+*Sögumaður er íslenskur indíafari á 17. öld. Bragarháttur er einhvers konar þríliðaháttur með frjálsum forlið. Innblástur að formi sóttur í ljóðið Sorg eftir Matthías Jochumsson.*
 
 Lagði ég ungur land undir fót  
 í leit minni að visku og friði.  
