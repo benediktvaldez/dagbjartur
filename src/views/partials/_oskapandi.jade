@@ -3,4 +3,7 @@ section.right.brown(name='oskapandi' align='right')
   a(href='/oskapandi' section='oskapandi')
   h1=content.index.meta.oskapandiTitle
   nav
-    +navItems(content.oskapandi.files)
+    +navItems(content.files.oskapandi.files)
+
+  inner
+    +articles(content.files.oskapandi.files, 'oskapandi')

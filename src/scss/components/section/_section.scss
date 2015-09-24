@@ -11,6 +11,17 @@ section {
 
   transition: transform $trans-dur-slower, width $trans-dur-slower, z-index 1ms ease $trans-dur-slower;
 
+  > inner {
+    position: absolute;
+    top: 5%;
+    bottom: calc(5% + 40px);
+
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+  }
+
   > nav {
     position: absolute;
     z-index: 5;

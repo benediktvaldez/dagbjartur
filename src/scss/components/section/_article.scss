@@ -1,0 +1,14 @@
+
+article {
+  padding: $spacing*2;
+
+  display: none;
+
+  &.show {
+    display: block;
+  }
+
+  html[data-article=''] &{
+    display: none;
+  }
+}

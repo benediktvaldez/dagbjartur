@@ -3,4 +3,7 @@ section.left.blue(name='skapandi' align='left')
   a(href='/skapandi' section='skapandi')
   h1=content.index.meta.skapandiTitle
   nav
-    +navItems(content.skapandi.files)
+    +navItems(content.files.skapandi.files)
+
+  inner
+    +articles(content.files.skapandi.files, 'skapandi')

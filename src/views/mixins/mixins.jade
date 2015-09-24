@@ -2,15 +2,16 @@
 mixin navChapter(item)
   a(href='#group-' + item.id group=item.id): span=item.meta.title
 
-mixin navItem(item)
-  a(href=item.path): span=item.meta.title
+mixin navItem(item, group)
+  - group = group.id || 'nope';
+  a(href='#item-' + item.path group=group item=item.id): span=item.meta.title
 
 mixin navGroup(group)
   +navChapter(group)
   ul(group=group.id)
     each sub in group.files
       li
-        +navItem(sub)
+        +navItem(sub, group)
 
 mixin navItems(files)
   ul
@@ -20,3 +21,17 @@ mixin navItems(files)
           +navGroup(item)
         else
           +navItem(item)
+
+mixin article(file, parent, group)
+  article(parent=parent group=group item=file.id)
+    h2=file.meta.title
+    div !{file.html}
+
+mixin articles(files, parent, group)
+  - parent = parent || '';
+  - group = group || '';
+  each file in files
+    if file.isFolder
+      +articles(file.files, parent, file.id)
+    else
+      +article(file, parent, group)
