@@ -7,7 +7,7 @@ title: Höndin
 
 Minningin er brennd í huga mér. Ég óska engum manni að ganga í gegnum tilfinningarússíbanann sem fylgir því að finna afskorna hönd á miðju Háskólatorgi. Liggjandi undir stól. Hjartað í mér sleppti þremur slögum og ég rétt náði að komast hjá því að öskra. Gaf í staðinn frá mér hljóð sem líktist kæfðu gelti. Hvernig bregst fólk við þegar það finnur týndar hendur? Átti ég að sækja konurnar á upplýsingaborðinu? Vita þær hvað á að gera við afskorna hönd?
 
-Ég tók höndina upp. Hún var ofurlítið þyngri en ég hélt. Snyrtileg, klipptar neglur og ekkert verulega blóðug. Ég prófaði að lyfta henni og veifa. Hálfri sekúndu síðar áttaði ég mig á því hversu furðulega það lyti út, stakk henni í töskuna og vonaði að enginn hafi séð mig.
+Ég tók höndina upp. Hún var ofurlítið þyngri en ég hafði búist við. Snyrtileg, klipptar neglur og ekkert verulega blóðug. Ég prófaði að lyfta henni upp og veifa henni. Hálfri sekúndu síðar áttaði ég mig á því hversu furðulega það lyti út, stakk henni í töskuna og vonaði að enginn hafi séð mig.
 
 Heima lagði ég höndina á eldhúsborðið. Ég hreyfði fingurna á henni og skoðaði lófann. Ætli eigandinn sé enn á lífi? Get ég talist vitorðsmaður ef hann var drepinn? Höndin var myndarleg. Aðeins stærri en mín og líklega sterkari.
 
