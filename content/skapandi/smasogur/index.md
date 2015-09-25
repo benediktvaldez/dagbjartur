@@ -1,4 +1,4 @@
 ---
-order: 3
-title: Brot úr smásögum
+order: 4
+title: Smásögur
 ---
