@@ -14,4 +14,6 @@ Hér á síðunni má finna sýnishorn af þeim verkum og verkefnum sem ég hef 
 
 Óháð öðru er mitt stærsta áhugamál að vinna eins og hestur. Ég fæ ekki nóg af því að vinna. Öllum stundum. Ég er líka bæði vandvirkur og afkastamikill í starfi. Fjölhæfur og skapandi. Ef þú ert hérna í ráðningarhugleiðingum þá hefurðu þessa hluti á bakvið eyrað.
 
+Ég held mig líka á fleiri stöðum á internetinu:
+
 [<img src="http://i.imgur.com/XAg2IFm.png">](http://twitter.com/dagbjartur/)       [<img src="http://i.imgur.com/mfaRwnh.png">](https://www.facebook.com/dagbjartur.gunnar)       [<img src="http://i.imgur.com/lAsWiq9.png">](https://www.linkedin.com/in/dagbjartur)
