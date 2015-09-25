@@ -1,8 +1,24 @@
 ---
 order: 2
-title: Pour ma mére
+title: Pour ma mère
 ---
 
-## Pour ma mére
+## Pour ma mère
 
 *höf. Maurice Carême*
+
+|                            |                            |                            |
+|:---------------------------|:---------------------------|:---------------------------|
+| Il y a plus de fleurs      | Það eru fleiri blóm        | Ég færi mömmu blóm
+| Pour ma mère en mon cœur   | ætluð mömmu frá mér        | klædd í hugheilan hljóm;
+| Que dans tous les vergers  | en á enginu finnast.       | fleiri en hægt er að sá.
+| Plus de merles rieurs      | Fleiri syngjandi þrestir   | Meiri fuglasöngsóm
+| Pour ma mère en mon cœur   | handa mömmu frá mér        | færðan fagran í hljóm
+| Que dans le monde entier   | en himininn ber.           | en finnst himnunum á.
+| Et bien plus de baisers    | Og mun fleiri kossar       | Og meiri kærleika
+| Pour ma mère en mon cœur   | fyrir mömmu frá mér        | vafinn þétt inn í hljóm
+| Qu’on ne pourrait en donner| en gefið ég get.           | en mér er unnt að meika.
+
+*Fyrri þýðingin er tiltölulega orðrétt en formi ekki haldið að öðru leyti en línur 2, 5 og 8 látnar ríma. Rétt rímskema, skv. fábrotinni frönskukunnáttu minni, er þó AABAABCAC. Seinni þýðingin er tilraun til að halda formi á kostnað efnis.*
+
+*Pour ma mère er frönsk barnagæla. Ég veit hvort hún eigi sér lag en við Benedikt Valdez, sem smíðaði þessa síðu, sömdum okkar eigið lag við hana sumarið 2009 eða 2010. Við höfum síðan flutt hana með fléttu af upphaflega textanum og fyrri þýðingunni á ýmsum viðburðum.*
