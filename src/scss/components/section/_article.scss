@@ -8,11 +8,12 @@ article {
 
   margin: auto;
   padding: $spacing*2 $spacing*2 $spacing;
-  width: 630px;
+  max-width: 630px;
   height: 100%;
 
   opacity: 0;
 
+  line-height: 1.5;
   text-align: left;
 
   transition: opacity $trans-dur;
@@ -24,6 +25,9 @@ article {
     transition-delay: $trans-dur;
   }
 
+  html[data-load-state='loading'] &,
+  html[data-load-state='post-load'] &,
+  html[data-load-state='intro'] &,
   html[data-section='about'] &,
   html[data-article=''] &{
     opacity: 0;

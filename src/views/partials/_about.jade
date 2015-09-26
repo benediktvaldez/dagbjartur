@@ -1,5 +1,27 @@
-section.dark(name='about' align='bottom')
-  h1 ABOUT
 
-  row: column(medium='10')
+section.dark(name='about' align='bottom')
+  row
+    column(xsmall='3' xlarge='3' xxlarge='2')
+      figure.circle: img(src='/img/' + content.about.meta.image)
+    column(xsmall='7' xlarge='5' xxlarge='4')
+      h1=content.about.meta.fullname
+      p
+        a(href='mailto:#{content.about.meta.email}')
+          | #{content.about.meta.email}
+        br
+        a(href='tel:+354#{content.about.meta.phone}')
+          | #{content.about.meta.phone}
+        br
+        br
+        a(href='https://twitter.com/#{content.about.meta.twitterhandle}' target='_blank')
+          include ../../img/social/twitter.svg
+        | &nbsp;
+        a(href='https://facebook.com/#{content.about.meta.facebookhandle}' target='_blank')
+          include ../../img/social/facebook.svg
+        | &nbsp;
+        a(href='https://linkedin.com/in/#{content.about.meta.linkedinhandle}' target='_blank')
+          include ../../img/social/linkedin.svg
+
+  row: column(xsmall='10' xlarge='8' xxlarge='6')
     | !{content.about.html}
+    p.text-center

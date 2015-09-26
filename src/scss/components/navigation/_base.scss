@@ -1,6 +1,8 @@
 
 nav {
+  user-select: none;
   padding: $spacing $spacing 0;
+  max-width: 280px;
 
   opacity: 0;
   transition: opacity $trans-dur, transform $trans-dur-slower;
@@ -21,8 +23,12 @@ nav {
       opacity: 1;
     }
 
-    &[href^='#item'] {
+    &[is='item'] {
       font-style: italic;
+    }
+
+    &[active='true'] {
+      font-weight: 700;
     }
   }
 
@@ -32,6 +38,12 @@ nav {
       ul {
         margin-bottom: $spacing;
         font-size: 90%;
+
+        a {
+          line-height: 1.25em;
+          padding-top: 0.25em;
+          padding-bottom: 0.25em;
+        }
 
         [align='left'] & {
           border-right: 1px solid rgba(white,0.8);
