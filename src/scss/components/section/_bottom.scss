@@ -12,4 +12,10 @@ section {
   html[data-section='about'] &[name='about'] {
     transform: translate3d(0,40px,0);
   }
+
+  row {
+    opacity: 1;
+    transition: opacity $trans-dur-slower;
+    transition-delay: $trans-dur-slower;
+  }
 }
