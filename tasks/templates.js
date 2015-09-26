@@ -4,7 +4,6 @@ var content = require('../helpers/content');
 module.exports = function(gulp) {
   var options = gulp.cfg.templates.jade;
   options.data = {};
-  options.data.content = content.getAll();
   options.data.env = gulp.cfg.env;
   options.data.flags = gulp.plugin.util.env;
 
