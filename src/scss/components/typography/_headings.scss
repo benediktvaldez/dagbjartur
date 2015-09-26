@@ -9,7 +9,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  opacity: 0.8;
   font-family: $font-serif;
   font-size: 36px;
   line-height: 44px;
@@ -17,27 +16,27 @@ h1 {
 
 h2 {
   font-weight: 500;
-  font-size: rem-calc(28);
-  @include respond-to(small) { font-size: rem-calc(32); }
-  @include respond-to(large) { font-size: rem-calc(36); }
-  @include respond-to(xxlarge) { font-size: rem-calc(48); }
+  font-size: 28px;
+  @include respond-to(small) { font-size: 32px; }
+  @include respond-to(large) { font-size: 36px; }
+  @include respond-to(xxlarge) { font-size: 48px; }
 }
 
 h3 {
-  font-size: rem-calc(24);
+  font-size: 24px;
   font-weight: 500;
 }
 
 h4 {
-  font-size: rem-calc(20);
+  font-size: 20px;
 }
 
 h5 {
-  font-size: rem-calc(18);
+  font-size: 18px;
 }
 
 h6 {
-  font-size: rem-calc(16);
+  font-size: 16px;
 }
 
 hgroup {
