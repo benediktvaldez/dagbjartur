@@ -18,6 +18,12 @@ article {
 
   transition: opacity $trans-dur;
   transition-delay: 0ms;
+  
+  hr {
+    opacity: 0.2;
+    margin-left: 0;
+    max-width: 80%;
+  }
 
   &.show {
     z-index: 2;
