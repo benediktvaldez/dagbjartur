@@ -99,8 +99,8 @@ let Router = class {
     this.setState('path', newpath);
     this.pushState();
 
-    global.setAttr('load-state', 'partial-loading');
-    setTimeout(() => global.setAttr('load-state', 'ready') ,300);
+    $(document).trigger('partial-loading');
+    setTimeout(() => $(document).trigger('partial-loaded') ,300);
   }
 
   actOnType(target) {
