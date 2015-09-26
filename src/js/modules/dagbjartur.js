@@ -13,7 +13,9 @@ onLoad(function() {
 
     if (section === '') {
       global.setAttr('article', '');
-      $('ul[group]').removeClass('show');
+      setTimeout(() => {
+        $('ul[group]').removeClass('show');
+      },750);
     }
 
     event.preventDefault();
@@ -42,7 +44,12 @@ onLoad(function() {
 
     global.setAttr('article', item);
 
-    $('article[group="' + group + '"][item="' + item + '"]').addClass('show').siblings('article').removeClass('show');
+    $('article[group="' + group + '"][item="' + item + '"]').scrollTop(0).addClass('show').siblings('article').removeClass('show');
+
+    global.setAttr('load-state', 'partial-loading');
+    setTimeout(() => {
+      global.setAttr('load-state', 'ready');
+    },500);
 
     event.preventDefault();
     return false;

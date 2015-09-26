@@ -12,20 +12,33 @@ section {
   transition: transform $trans-dur-slower, width $trans-dur-slower, z-index 1ms ease $trans-dur-slower;
 
   > inner {
-    @extend .y-scroll;
-    
     position: absolute;
     top: 0;
     bottom: 40px;
 
     display: block;
     margin: 0;
-    padding: $spacing $spacing 0;
-    width: 500px + $spacing*2;
+    padding: 0;
+
+    table {
+      margin: 0 0 $spacing;
+      max-width: 100%;
+
+      td {
+        vertical-align: top;
+        padding: $spacing/4 $spacing/2;
+        font-size: 80%;
+
+        &:first-child {
+          padding-left: 0;
+        }
+      }
+    }
   }
 
   > nav {
     position: absolute;
+    top: 108px;
     z-index: 5;
   }
 

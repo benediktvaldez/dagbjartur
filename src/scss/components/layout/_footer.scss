@@ -6,15 +6,18 @@ footer {
   cursor: default;
 
   position: fixed;
+  // top: 0;
   left: 0; right: 0; bottom: 0;
   z-index: 99;
 
   margin: 0;
   padding: $spacing/2 $spacing 0;
+  min-width: $page-min-width;
 
   background-color: $color-dark;
 
   transform: translate3d(0,0,0);
+  // transform: translate3d(0px, calc(100% - 40px), 0);
   transition: transform $trans-dur-slower;
   transition-delay: $trans-dur-slower;
 
@@ -46,9 +49,12 @@ footer {
     }
   }
 
-  html[data-section='about'] &,
+  html[data-section='about'] & {
+    transform: translate3d(0,100%,0);
+  }
   html[data-load-state="post-load"] &,
   html[data-load-state="loading"] & {
+    // transform: translate3d(0,0,0);
     transform: translate3d(0,100%,0);
     transition-delay: 0ms;
   }

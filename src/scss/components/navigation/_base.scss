@@ -11,14 +11,26 @@ nav {
     display: block;
 
     font-family: $font-serif;
+    font-weight: 400;
 
     opacity: 0.8;
+
+    transition: opacity $trans-dur, color $trans-dur, box-shadow $trans-dur;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    &[href^='#item'] {
+      font-style: italic;
+    }
   }
 
   ul {
 
     li {
       ul {
+        margin-bottom: $spacing;
         font-size: 90%;
 
         [align='left'] & {
@@ -26,6 +38,10 @@ nav {
         }
         [align='right'] & {
           border-left: 1px solid rgba($color-dark,0.8);
+        }
+
+        ul {
+          margin-bottom: $spacing/2;
         }
       }
     }
