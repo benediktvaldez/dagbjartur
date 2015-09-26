@@ -44,6 +44,9 @@ let Router = class {
 
           this.setState('article', item);
 
+          $('a[is="item"][item!="' + item + '"]').attr('active', false);
+          $('a[is="item"][item="' + item + '"]').attr('active', true);
+
           $('article[group="' + group + '"][item="' + item + '"]')
               .scrollTop(0)
               .addClass('show')
@@ -111,6 +114,9 @@ let Router = class {
       let item = $target.attr('item');
       let group = $target.attr('group');
       this.setState('article', item);
+
+      $('a[is="item"][item!="' + item + '"]').attr('active', false);
+      $('a[is="item"][item="' + item + '"]').attr('active', true);
 
       $('article[group="' + group + '"][item="' + item + '"]')
           .scrollTop(0)

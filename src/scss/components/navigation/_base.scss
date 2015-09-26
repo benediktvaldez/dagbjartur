@@ -10,25 +10,26 @@ nav {
   line-height: 1.5em;
   font-size: 18px;
   a {
-    display: block;
+    display: inline-block;
 
     font-family: $font-serif;
     font-weight: 400;
 
-    opacity: 0.8;
+    opacity: 0.5;
 
-    transition: opacity $trans-dur, color $trans-dur, box-shadow $trans-dur;
-
-    &:hover {
-      opacity: 1;
+    transition: opacity $trans-dur, color $trans-dur, transform $trans-dur;
+    
+    html[data-article=''] & {
+      opacity: 0.8;
     }
 
     &[is='item'] {
       font-style: italic;
     }
 
+    &:hover,
     &[active='true'] {
-      font-weight: 700;
+      opacity: 1;
     }
   }
 
