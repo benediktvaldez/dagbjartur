@@ -7,11 +7,11 @@ title: Börn Marleys
 
 *Hluti greinar sem birt var á scene.is 22. ágúst 2011.*
 
-Meistari Bob Marley kom víða við. Ekki bara í tónlistinni heldur í ástarlífinu líka (erfitt að finna mann sem lagði jafn mikið upp úr því að elska náungann). Nákvæmur fjöldi ávaxta ástarleikja reggíkóngsins er óþekktur en hátt í 20 manns hafa haldið því fram að helmingur gena sinna sé runninn undan Marley og sá yngsti þeirra fæddur eftir dauða hans. Þrátt fyrir þetta eru aðeins 11 einstaklingar viðurkenndir sem afkomendur hans á opinberri síðu Marleys.
+Meistari Bob Marley kom víða við. Ekki bara í tónlistinni heldur í ástarlífinu líka (erfitt að finna mann sem lagði jafn mikið upp úr því að elska náungann). Nákvæmur fjöldi ávaxta ástarleikja reggíkóngsins er óþekktur en hátt í 20 manns hafa haldið því fram að helmingur gena sinna sé runninn undan honum. Sá yngsti þeirra fæddur eftir andlát Marleys. Af þessum fjölda hafa aðrir fjölskyldumeðlimir þó aðeins viðurkennt 11 einstaklingar sem afkomendur hans.
 
 [...]
 
-Það er nánast sjálfgefið að í svona stórum hópi einstaklinga með gen Marleys finnist hæfileikaríkir tónlistarmenn. Og hvort þeir gera, nánast öll börnin hans hafa látið í sér heyra á sviði tónlistarinnar og fjórir synir þeirra þekktastir. Hér fyrir neðan mun ég reifa hvað þessi 11 börn eru að gera í dag.
+Það er nánast sjálfgefið að í svona stórum hópi fólks, með gen Marleys, finnist hæfileikaríkir tónlistarmenn. Og hvort þeir gera, nánast öll börnin hans hafa látið að sér kveða á sviði tónlistarinnar og fjórir synir þeirra þekktastir. Hér fyrir neðan mun ég reifa hvað öll 11 börnin eru að gera í dag.
 
 **Ziggy Marley**
 
