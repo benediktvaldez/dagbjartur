@@ -15,7 +15,7 @@ Meistari Bob Marley kom víða við. Ekki bara í tónlistinni heldur í ástarl
 
 **Ziggy Marley**
 
-Elsti sonurinn var skírður David en gefið gælunafnið Ziggy af föður sínum (Ziggy er jamaískt slangur fyrir litla jónu). Hann stofnaði árið 1979 hljómsveitina Ziggy Marley and the Melody Makers, sem enn þann dag í dag kemur víða fram á tónleikum. Hann hefur verið ötull talsmaður lögleiðingar marijuana og er að leggja lokahönd á að skrifa myndasögu um hetjuna Marijuanaman. Ziggy gaf í sumar út sína fjórðu sólóplötu, Wild and Free. Hann víkur ekki mikið frá stíl föður síns og er tónlist hans uppfull af hlýju reggí með boðskap um ástina.
+Elsti sonurinn var skírður David en gefið gælunafnið Ziggy af föður sínum (Ziggy er jamaískt slangur fyrir litla jónu). Árið 1979 stofnaði hann hljómsveitina Ziggy Marley and the Melody Makers, sem enn þann dag í dag kemur víða fram á tónleikum. Hann hefur verið ötull talsmaður lögleiðingar marijuana og er að leggja lokahönd á að skrifa myndasögu um hetjuna Marijuanaman. Ziggy gaf í sumar út sína fjórðu sólóplötu, Wild and Free. Hann víkur ekki mikið frá stíl föður síns og er tónlist hans uppfull af hlýju reggí með boðskap um ástina.
 
 Hér má heyra lagið Forward to Love af plötunni Wild and Free:  
 http://www.youtube.com/watch?v=3lrKdBI-3G4
