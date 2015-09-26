@@ -1,6 +1,5 @@
-define(['domReady', 'onLoad', 'jquery', 'router', 'keys'], function(domReady, onLoad, $, Router, keys) {
+define(['domReady', 'onLoad', 'jquery', 'router', 'keys'], function(domReady, onLoad, $, router, keys) {
   'use strict';
-  var router = new Router();
   if (!router.supported) { return; }
 
   var selector = 'a';
@@ -16,22 +15,13 @@ define(['domReady', 'onLoad', 'jquery', 'router', 'keys'], function(domReady, on
   var clickHandler = function(event) {
     if (keys.isClickModifier(event)) { return; }
 
-    router.navigate(event.currentTarget.pathname || $(event.currentTarget).attr('href'));
+    router.navigate(event.currentTarget);
 
-    if (event && event.currentTarget.tagName === 'A') {
-      event.preventDefault();
-      return false;
-    }
+    event.preventDefault();
+    return false;
   };
 
-  domReady(function(){
-    $(window).on('popstate', function(){
-      router.navigate(window.location.pathname + window.location.search + window.location.hash);
-    });
-    $('header, sidebar, footer').find(selector).off('click.nav').on('click.nav', clickHandler);
-  });
-
   onLoad(function(){
-    $('pagewrap').find(selector).off('click.nav').on('click.nav', clickHandler);
+    $('body').find(selector).off('click.nav').on('click.nav', clickHandler);
   });
 });

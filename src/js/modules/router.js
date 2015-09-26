@@ -1,5 +1,5 @@
-import req from 'req';
-import keys from 'keys';
+// import keys from 'keys';
+// import format from 'modules/format';
 import global from 'global';
 import analytics from 'analytics';
 import historySupported from 'support/history';
@@ -17,6 +17,54 @@ let Router = class {
     };
 
     this.setState('path', this.state.path);
+    this.setState('section', '');
+    this.setState('article', '');
+
+    this.processPath();
+  }
+
+  processPath(path) {
+    path = path || this.state.path;
+    console.log('processPath > |' + path + '|');
+    let split = path.split('/');
+
+    if (split.length < 1)  { return; }
+
+    $.each(split, (index, val) => {
+      if (index === 1 && val) {
+      this.setState('section', val);
+      } else if (index > 1 && val) {
+        let $isItem = this.isItem(val);
+        if ($isItem) {
+          console.log('>>show article:',val);
+          let item = $isItem.attr('item');
+          let group = $isItem.attr('group');
+
+          this.setState('article', item);
+
+          $('article[group="' + group + '"][item="' + item + '"]')
+              .scrollTop(0)
+              .addClass('show')
+            .siblings('article')
+              .removeClass('show');
+        } else {
+          console.log('>>show group:',val);
+          let $ul = $('ul[group="' + val + '"]');
+          if ($ul.hasClass('show')) {
+            $ul.removeClass('show');
+          } else {
+            $ul.parent().siblings('li')
+              .find('ul[group]').removeClass('show');
+            $ul.addClass('show');
+          }
+        }
+      }
+    });
+  }
+
+  isItem(name) {
+    var $item = $('a[item="' + name + '"]');
+    return $item.length !== 0 ? $item : false;
   }
 
   pushState(state, title, path) {
@@ -24,6 +72,11 @@ let Router = class {
     title = title || this.state.title;
     path = path || this.state.path;
     window.history.pushState(state, title, path);
+
+    analytics('send', 'pageview', {
+      page: analytics.cleanUrl(path),
+      title: title,
+    });
   }
 
   replaceState(state, title, path) {
@@ -38,86 +91,62 @@ let Router = class {
     global.setAttr(key, value);
   }
 
-  clickHandler(event) {
-    if (keys.isClickModifier(event)) { return; }
-
-    this.navigate();
-
-    if (event && event.target.tagName === 'A') {
-      event.preventDefault();
-      return false;
-    }
-  }
-
   hardNavigate(path) {
     window.location.href = path;
   }
 
-  navigate(newpath) {
+  navigate(target) {
+    this.actOnType(target);
+    var newpath = target.pathname || $(target).attr('href');
     this.setState('last', this.state.path);
     this.setState('path', newpath);
     this.pushState();
-    req.flush();
 
-    this.setState('navigating', true);
+    console.log('navigate', newpath);
+    global.setAttr('load-state', 'partial-loading');
+    setTimeout(() => global.setAttr('load-state', 'ready') ,300);
+  }
 
-    $(document).trigger('ajax-loading');
-    let res = req.get(this.state.path, 'router');
+  actOnType(target) {
+    let $target = $(target);
+    let type = $target.attr('is') || 'link';
 
-    $.when( res.promise ).done((data) => {
-      $('html,body').stop().animate({ scrollTop: 0 }, 200);
-      this.success(data.response);
-    }).fail((data) => {
-      if (data.status !== 'abort') {
-        console.warn('Navigation failed', data);
-        this.fail(data.response);
+    if (type === 'item') {
+      let item = $target.attr('item');
+      let group = $target.attr('group');
+      this.setState('article', item);
+
+      $('article[group="' + group + '"][item="' + item + '"]')
+          .scrollTop(0)
+          .addClass('show')
+        .siblings('article')
+          .removeClass('show');
+    } else if (type === 'group') {
+      let group = $target.attr('group');
+      let $ul = $('ul[group="' + group + '"]');
+
+      this.setState('article', '');
+
+      if ($ul.hasClass('show')) {
+        $ul.removeClass('show');
+      } else {
+        $ul.parent().siblings('li')
+          .find('ul[group]').removeClass('show');
+        $ul.addClass('show');
       }
-    });
-  }
+    } else if (type === 'section') {
+      let section = $target.attr('section');
 
-  success(response) {
-    this.buildPage(response);
-    this.setState('navigating', false);
+      this.setState('section', section);
 
-    analytics('send', 'pageview', {
-      page: analytics.cleanUrl(this.state.path),
-      title: $(response).filter('title').text(),
-    });
-  }
-
-  fail(response) {
-    response = response || { status: 0 };
-
-    if (response.status > 499) {
-      this.hardNavigate('http://kolibri.is/500');
-    } else if (response.status > 499) {
-      this.navigate('/404.html');
-    } else {
-      this.hardNavigate(this.state.path);
+      if (section === '') {
+        this.setState('article', '');
+        setTimeout(() => {
+          $('ul[group]').removeClass('show');
+        },750);
+      }
     }
   }
-
-  buildPage(response) {
-    let $response = $(response);
-
-    if ($response.filter('pagewrap').length < 1) {
-      this.navigate('/404.html');
-    } else {
-      document.title = $response.filter('title').text();
-
-      let $pagewrap = $('pagewrap');
-      if ($pagewrap.length <= 0) {
-        $('header').after($('<pagewrap />'));
-      }
-      if ($pagewrap.find('main').length <= 0) {
-        $pagewrap.append($('<main />'));
-      }
-      $pagewrap.find('main').replaceWith($response.find('main'));
-
-      $(document).trigger('ajax-loaded');
-    }
-  }
-
 };
 
-export default Router;
+export default new Router();

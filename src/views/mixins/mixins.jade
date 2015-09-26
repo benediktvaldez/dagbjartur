@@ -3,11 +3,11 @@ include _prettyDate
 include _showJson
 
 mixin navChapter(item)
-  a(href='#group-' + item.id group=item.id): span=item.meta.title
+  a(href=item.path is='group' group=item.id): span=item.meta.title
 
 mixin navItem(item, group)
   - group = group.id || 'nope';
-  a(href='#item-' + item.path group=group item=item.id): span=item.meta.title
+  a(href=item.path is='item' group=group item=item.id): span=item.meta.title
 
 mixin navGroup(group)
   if Object.keys(group.files).length > 0

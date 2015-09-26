@@ -13,14 +13,11 @@ require.config({
     router: 'modules/router',
     global: 'modules/global',
     analytics: 'modules/analytics',
-
-    // Scripts
-    initsite: 'modules/init-site',
     dagbjartur: 'modules/dagbjartur',
   }
 });
 
 require([
-  'initsite',
+  'init/router',
   'dagbjartur',
 ]);
