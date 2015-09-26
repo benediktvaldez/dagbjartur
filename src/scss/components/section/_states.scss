@@ -76,7 +76,7 @@ section {
   html[data-section='about'] &[name='oskapandi'] {
     > h1 {
       opacity: 0;
-      transition-delay: $trans-dur-slower;
+      transition-delay: 0ms;
     }
   }
 }
