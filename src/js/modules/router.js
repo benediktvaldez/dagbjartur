@@ -21,11 +21,14 @@ let Router = class {
     this.setState('article', '');
 
     this.processPath();
+
+    window.onpopstate = () => {
+      this.processPath(window.location.pathname);
+    };
   }
 
   processPath(path) {
     path = path || this.state.path;
-    console.log('processPath > |' + path + '|');
     let split = path.split('/');
 
     if (split.length < 1)  { return; }
@@ -36,7 +39,6 @@ let Router = class {
       } else if (index > 1 && val) {
         let $isItem = this.isItem(val);
         if ($isItem) {
-          console.log('>>show article:',val);
           let item = $isItem.attr('item');
           let group = $isItem.attr('group');
 
@@ -48,15 +50,10 @@ let Router = class {
             .siblings('article')
               .removeClass('show');
         } else {
-          console.log('>>show group:',val);
           let $ul = $('ul[group="' + val + '"]');
-          if ($ul.hasClass('show')) {
-            $ul.removeClass('show');
-          } else {
-            $ul.parent().siblings('li')
-              .find('ul[group]').removeClass('show');
-            $ul.addClass('show');
-          }
+          $ul.parent().siblings('li')
+            .find('ul[group]').removeClass('show');
+          $ul.addClass('show');
         }
       }
     });
@@ -102,7 +99,6 @@ let Router = class {
     this.setState('path', newpath);
     this.pushState();
 
-    console.log('navigate', newpath);
     global.setAttr('load-state', 'partial-loading');
     setTimeout(() => global.setAttr('load-state', 'ready') ,300);
   }
@@ -127,13 +123,9 @@ let Router = class {
 
       this.setState('article', '');
 
-      if ($ul.hasClass('show')) {
-        $ul.removeClass('show');
-      } else {
-        $ul.parent().siblings('li')
-          .find('ul[group]').removeClass('show');
-        $ul.addClass('show');
-      }
+      $ul.parent().siblings('li')
+        .find('ul[group]').removeClass('show');
+      $ul.addClass('show');
     } else if (type === 'section') {
       let section = $target.attr('section');
 
