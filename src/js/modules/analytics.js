@@ -8,7 +8,7 @@ window.ga = function () {
 window.ga.l = 1 * new Date();
 
 // Immediately add a pageview event to the queue.
-window.ga('create', 'UA-XXXXXXXX-1', 'dagbjartur.me');
+window.ga('create', 'UA-68131133-1', 'dagbjartur.me');
 window.ga('send', 'pageview');
 
 let analytics = function() {
