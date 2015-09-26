@@ -21,4 +21,4 @@ title: Pour ma mère
 
 *Fyrri þýðingin er tiltölulega orðrétt en ég hélt forminu ekki að öðru marki en rími í línum 2, 5 og 8 og atkvæðafjölda. Rétt rímskema, skv. fábrotinni frönskukunnáttu minni, er AABAABCAC. Seinni þýðingin er tilraun til að halda því formi á kostnað efnis.*
 
-*Pour ma mère er frönsk barnagæla. Ég veit hvort hún eigi sér lag en við Benedikt Valdez, sem smíðaði þessa síðu, sömdum okkar eigið lag við hana sumarið 2009 eða 2010. Við höfum síðan flutt hana með fléttu af upphaflega textanum og fyrri þýðingunni við ýmis tilefni.*
+*Pour ma mère er frönsk barnagæla. Ég veit ekki hvort hún eigi sér lag en við Benedikt Valdez, sem smíðaði þessa síðu, sömdum okkar eigið lag við hana sumarið 2009 eða 2010. Við höfum síðan flutt hana með fléttu af upphaflega textanum og fyrri þýðingunni við ýmis tilefni.*
