@@ -5,6 +5,8 @@ import global from 'global';
 global.setAttr('load-state', 'post-load');
 
 onLoad(function() {
+  $('a[href^="http"]').attr('target', '_blank');
+
   global.setAttr('load-state', 'intro');
   setTimeout(() => {
     global.setAttr('load-state', 'ready');
