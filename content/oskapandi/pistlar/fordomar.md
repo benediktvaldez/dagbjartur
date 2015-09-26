@@ -17,12 +17,12 @@ Opnunarlínunni var kastað fram af partýgesti um daginn án hiks og án þess 
 
 Það er óumdeilanleg skylda okkar allra að leiðrétta augljósar ranghugmyndir sem við heyrum um einstaklinga eða hópa, en við þurfum líka að hlusta með opnum hug á gagnrýni á okkar eigin skoðanir.
 
-Hér eru dæmi um fordómafullar og rangar skoðanir sem ég hef sjálfur verið staðinn að verki við að hafa, sumar nýlegar aðrar gamlar:
-* Innflytjendur eru líklegri til að fremja afbrot en innfæddir (Skrifaði pistil um þetta 17 ára).
-* Réttindabarátta kvenna mun hafa öfug áhrif (skrifaði pistil um þetta 16 ára).
-* HIV-smit eru dauðadómur.
-* Menntað fólk er betur fallið til ákvarðanatöku en ómenntað.
-* Meðlimir Þjóðkirkjunnar fjármagna barnaníð.
-* Framsóknarmenn eru allir rasistar.
+Hér eru dæmi um fordómafullar og rangar skoðanir sem ég hef sjálfur verið staðinn að verki við að hafa, sumar nýlegar aðrar gamlar:  
+ ‣ Innflytjendur eru líklegri til að fremja afbrot en innfæddir (Skrifaði pistil um þetta 17 ára).  
+ ‣ Réttindabarátta kvenna mun hafa öfug áhrif (skrifaði pistil um þetta 16 ára).  
+ ‣ HIV-smit eru dauðadómur.  
+ ‣ Menntað fólk er betur fallið til ákvarðanatöku en ómenntað.  
+ ‣ Meðlimir Þjóðkirkjunnar fjármagna barnaníð.  
+ ‣ Framsóknarmenn eru allir rasistar.
 
 Þetta er ekki tæmandi. Ég hef engin sterk lokaorð með þessu. Ég bið alla sem hafa nennt að lesa svona langt að halda áfram og lesa líka greinina sem ég deili með pistlinum. Í ljósi HIV-þemans læt ég líka fylgja link á eitt af síðustu lögunum sem Freddie Mercury tók upp með Queen.
