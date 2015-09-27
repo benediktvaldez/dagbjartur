@@ -3,7 +3,7 @@ order: 1
 title: Þak heimsins
 ---
 
-## Þak heimsins – Himalaya
+## Þak heimsins ― Himalaya
 
 Lagði ég ungur land undir fót  
 í leit minni að visku og friði.  
