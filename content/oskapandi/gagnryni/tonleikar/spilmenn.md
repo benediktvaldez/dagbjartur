@@ -7,7 +7,7 @@ title: Spilmenn Ríkínís
 
 ***16. nóvember 2008***
 
-Dagrenning undir björgum Hornstranda með öldunið hafsins í bakgrunni og mikilfenglegt landslag hvers sem litið er. Þannig lítur sú mynd út, sem fyrst kom til hugar á tónleikum Spilamanna Ríkínís. Tónleikarnir voru ferðalag til fortíðar, frá árdögum íslenskrar tónlistar og til upphafs 20. aldar. Þar var leikin forn tónlist, á sömu hljóðfæri og hún er talin hafa verið spiluð upprunalega. Spilagleðin og seðjandi fróðleikur í hávegum höfð.
+Dagrenning undir björgum Hornstranda með öldunið hafsins í bakgrunni og mikilfenglegt landslag hvert sem litið er. Þannig leit sú mynd út sem fyrst kom til huga á tónleikum Spilmanna Ríkínís. Tónleikarnir voru ferðalag til fortíðar, frá árdögum íslenskrar tónlistar og til upphafs 20. aldar. Þar var leikin forn tónlist, á sömu hljóðfæri og hún er talin hafa verið spiluð upprunalega. Spilagleðin og seðjandi fróðleikur í hávegum höfð.
 
 Undir stjórn Mörtu Guðrúnar Halldórsdóttur og Arnar Magnússonar spilaði þessi knái kvintett, sem nefndur er eftir fyrsta tónlistarkennara Hólaskóla, meðal annars á hljóðfæri eins og symfón, gígju og langspil. Symfónninn var eitt áhugaverðasta hljóðfæri sýningarinnar en hann er bordún hljófæri á sama hátt og sekkjapípa, þar sem tveir fimmundarraddaðir tónar hljóma óslitið. Munurinn er þó sá að á meðan sekkjapípan er blásturshljóðfæri er synfónn strengjahljóðfæri, þar sem fjórir strengir eru strengdir í gegnum kassa og hjóli snúið svo það strjúki strengina lipurlétt. Að utan eru síðan nokkrir takkar (mismargir eftir tegundum), sem hægt er að nota til að mynda ákveðna tóna með tveimur eftirstandandi strengjunum.
 
