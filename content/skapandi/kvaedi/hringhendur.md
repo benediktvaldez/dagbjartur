@@ -7,7 +7,7 @@ title: Hringhendur
 
 Enga á ég von og ekkert þarf.  
 Auðnin er mín kvon og þessi vísa  
-er minn einkasonur – ævistarf.  
+er minn einkasonur ― ævistarf.  
 Aftur upp frá honum mun ég rísa.
 
 Þótt ól sé hert og ausan tóm  
