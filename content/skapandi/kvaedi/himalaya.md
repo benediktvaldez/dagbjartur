@@ -8,7 +8,7 @@ title: Þak heimsins
 Lagði ég ungur land undir fót  
 í leit minni að visku og friði.  
 Heilluðu mig bæði himinn og grjót,  
-Herrann - og dýr Hans á iði.  
+Herrann ― og dýr Hans á iði.  
 En að mér ei hvarflaði, hvert sem ég gekk,  
 í kolugum fötum með snjáðan sekk,  
 hvað handan við hafið mín biði.
