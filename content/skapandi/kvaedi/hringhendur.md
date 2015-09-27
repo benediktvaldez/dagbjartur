@@ -15,4 +15,4 @@ og útlit svert að vanda,
 haltu þvert í héraðsdóm,  
 þar handsal hvert skal standa.
 
-*Fleiri ljóð eftir mig má finna á* ***[síðunni minni á ljod.is](http://www.ljod.is/index.php/ljod/view_poet/3763)***.
+*Fleiri kvæði má finna á* ***[síðunni minni á ljod.is](http://www.ljod.is/index.php/ljod/view_poet/3763)***.
