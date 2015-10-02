@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 2
 title: Árið sem sumarið kom ekki
 ---
 
