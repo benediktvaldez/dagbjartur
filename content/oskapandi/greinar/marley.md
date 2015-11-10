@@ -11,7 +11,7 @@ Meistari Bob Marley kom víða við. Ekki bara í tónlistinni heldur í ástarl
 
 [...]
 
-Það er nánast sjálfgefið að í svona stórum hópi fólks, með gen Marleys, finnist hæfileikaríkir tónlistarmenn. Og hvort þeir gera, nánast öll börnin hans hafa látið að sér kveða á sviði tónlistarinnar og fjórir synir þeirra þekktastir. Hér fyrir neðan mun ég reifa hvað öll 11 börnin eru að gera í dag.
+Það er nánast sjálfgefið að í svona stórum hópi fólks, með gen Marleys, finnist hæfileikaríkir tónlistarmenn. Og hvort þeir gera, nánast öll börnin hans hafa látið að sér kveða á sviði tónlistar og fjórir synir þeirra þekktastir. Hér fyrir neðan mun ég reifa hvað öll 11 börnin eru að gera í dag.
 
 **Ziggy Marley**
 
