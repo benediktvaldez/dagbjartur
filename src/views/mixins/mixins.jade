@@ -12,7 +12,7 @@ mixin navItem(item, group)
 mixin navGroup(group)
   if Object.keys(group.files).length > 0
     +navChapter(group)
-    ul(group=group.id)
+    ul(group=group.id length=Object.keys(group.files).length)
       each sub in group.files
         li
           if sub.isFolder

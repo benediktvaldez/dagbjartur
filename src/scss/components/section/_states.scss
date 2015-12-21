@@ -28,10 +28,20 @@ section {
       }
     }
     &[align='bottom'] {
-      transform: translate3d(0,50%,0);
 
-      row {
+      inner > * {
         opacity: 0;
+      }
+    }
+  }
+
+  html[data-section='oskapandi'] &,
+  html[data-section='skapandi'] &,
+  html:not([data-section='about']) & {
+    &[align='bottom'] {
+      inner > * {
+        opacity: 0;
+        transition-delay: 0ms;
       }
     }
   }

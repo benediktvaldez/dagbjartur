@@ -3,7 +3,9 @@ title: Dagbjartur
 
 enabled: true
 
-image: selfie2.png
+aboutflipi: Um höfund
+
+image: selfie1.png
 fullname: Dagbjartur Gunnar Lúðvíksson
 shortname: Dagbjartur
 phone: 6636219
@@ -11,6 +13,7 @@ email: hrasal@dagbjartur.me
 twitterhandle: dagbjartur
 facebookhandle: dagbjartur.gunnar
 linkedinhandle: dagbjartur
+snapchathandle: dgunnar
 ---
 
 Ég er 26 ára textasmiður og Trivial Pursuit meistari (óopinber). Áhugamaður um kvikmyndir, risaeðlur og markaðsfræði. Lögmenntaður en samt ekki leiðinlegur. Fyrrverandi héraðsmeistari Austur-Húnvetninga í hástökki og fleira í þeim dúr.

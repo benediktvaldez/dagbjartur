@@ -1,3 +1,26 @@
+section[name='about'] {
+  .content {
+    @extent %clearfix;
+
+    position: absolute;
+    top: calc(50% - 20px);
+    left: 60px;
+    right: 60px;
+    bottom: 40px;
+    margin: auto;
+
+    @include respond-to(xlarge) {
+      margin: 0;
+      top: calc(50% - 20px);
+      left: calc(50% + 40px);
+      right: 40px;
+      bottom: auto;
+
+      transform: translateY(-50%);
+    }
+    transform: translateY(-50%);
+  }
+}
 
 img {
   max-width: 100%;
@@ -20,7 +43,8 @@ figure {
 
   >img {
     display: block;
-    width: 100%;
+    width: auto;
+    height: 100%;
   }
 
   >figcaption {
@@ -33,17 +57,36 @@ figure {
     background: $color-dark;
   }
 
+  &.half {
+    position: absolute;
+    top: 40px; left: 40px; bottom: 60px;
+
+    width: calc(100% - 80px);
+    // height: calc(100% - 80px);
+
+    background-position: 50% 0%;
+    background-size: cover;
+
+    opacity: 0.25;
+
+    @include respond-to(xlarge) {
+      height: auto;
+      width: calc(50% - 80px);
+      opacity: 1;
+    }
+  }
+
   &.circle {
     &:before {
       content: '';
       padding-bottom: 100%;
     }
     overflow: hidden;
-    border-radius: 0 0 100% 100%;
+    border-radius: 100%;
     max-width: 190px;
 
     >img {
-      border-radius: 0 0 100% 100%;
+      border-radius: 100%;
       position: absolute;
       top: 0; left: 0; right: 0; bottom: 0;
       margin: auto;

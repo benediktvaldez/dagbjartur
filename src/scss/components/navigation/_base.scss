@@ -35,28 +35,44 @@ nav {
 
   ul {
 
-    li {
-      ul {
-        margin-bottom: $spacing;
-        font-size: 90%;
+    &[group] {
+      $lineheight: 27px;
+      overflow: hidden;
+      height: 0;
+      // margin-bottom: $spacing;
+      font-size: 90%;
+      
+      transition: height $trans-dur-slow;
+      
+      li {
+        line-height: $lineheight;
 
         a {
-          line-height: 1.25em;
-          padding-top: 0.25em;
-          padding-bottom: 0.25em;
+          vertical-align: top;
+          line-height: $lineheight;
+          padding: 0 $spacing/2;
         }
+      }
 
-        [align='left'] & {
-          border-right: 1px solid rgba(white,0.8);
-        }
-        [align='right'] & {
-          border-left: 1px solid rgba($color-dark,0.8);
-        }
+      [align='left'] & {
+        border-right: 1px solid rgba(white,0.8);
+      }
+      [align='right'] & {
+        border-left: 1px solid rgba($color-dark,0.8);
+      }
 
-        ul {
-          margin-bottom: $spacing/2;
+      &.show {
+        @for $i from 1 through 10 {
+          &[length='#{$i}'] {
+            height: $lineheight * $i;
+            
+            > li > a {
+              transform: translate3d(0,0,0);
+            }
+          }
         }
       }
     }
+
   }
 }

@@ -49,7 +49,11 @@ row {
 
   width: 100%;
   max-width: $page-max-width;
-  min-width: $page-min-width;
+  // min-width: $page-min-width;
+
+  &.no-max {
+    max-width: none;
+  }
 
   text-align: center;
   font-size: 0;
@@ -99,6 +103,10 @@ row {
 
     @include grid-offset();
     @include grid-ordering();
+  }
+
+  &.align-left {
+    text-align: left;
   }
 
   &.align-right {

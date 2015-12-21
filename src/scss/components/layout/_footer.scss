@@ -1,5 +1,6 @@
 
 footer {
+  display: none;
   @extend %clearfix;
 
   user-select: none;
@@ -11,25 +12,48 @@ footer {
   z-index: 99;
 
   margin: 0;
-  padding: $spacing/2 $spacing 0;
+  padding: $spacing/2 0 0;
   min-width: $page-min-width;
 
-  background-color: $color-dark;
+  // background-color: $color-dark;
 
   transform: translate3d(0,0,0);
   // transform: translate3d(0px, calc(100% - 40px), 0);
   transition: transform $trans-dur-slower;
   transition-delay: $trans-dur-slower;
 
-  p {
+  svg.svg-footer {
+    display: block;
+    margin: auto -5%;
+    padding: 0;
+    width: 110%;
+    height: auto;
     position: relative;
+    z-index: 1;
+  }
+
+  p {
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
     z-index: 5;
 
-    margin-bottom: $spacing/2;
+    margin: auto;
+    width: 50%;
+    min-width: 300px;
+    height: 4vw;
     line-height: $spacing;
-    font-size: 12px;
+    font-size: 28px;
     text-align: center;
-    color: $color-light;
+    font-family: $font-serif;
+    color: rgba(white, 0.8);
+
+    opacity: 0;
+    transition: opacity $trans-dur;
+
+    html[data-section='about'] & {
+      opacity: 0;
+      transition-delay: 0ms;
+    }
   }
 
   > a {
@@ -51,6 +75,8 @@ footer {
 
   html[data-section='about'] & {
     transform: translate3d(0,100%,0);
+    // transition-delay: $trans-dur-slower/4;
+    transition-delay: 0ms;
   }
   html[data-load-state="post-load"] &,
   html[data-load-state="loading"] & {

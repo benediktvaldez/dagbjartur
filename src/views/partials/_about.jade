@@ -1,27 +1,34 @@
 
 section.dark(name='about' align='bottom')
-  row
-    column(xsmall='3' xlarge='3' xxlarge='2')
-      figure.circle: img(src='/img/' + content.about.meta.image)
-    column(xsmall='7' xlarge='5' xxlarge='4')
+  include ../../img/footer.svg
+  if content.about.meta.enabled
+    a.section-link(href='/about' is='section' section='about')
+      | #{content.about.meta.aboutflipi}
+  inner
+    figure.half(style='background-image: url(/img/' + content.about.meta.image + ');')
+    .content
       h1=content.about.meta.fullname
-      p
-        a(href='mailto:#{content.about.meta.email}')
-          | #{content.about.meta.email}
-        br
-        a(href='tel:+354#{content.about.meta.phone}')
-          | #{content.about.meta.phone}
-        br
-        br
-        a(href='https://twitter.com/#{content.about.meta.twitterhandle}' target='_blank')
-          include ../../img/social/twitter.svg
-        | &nbsp;
-        a(href='https://facebook.com/#{content.about.meta.facebookhandle}' target='_blank')
-          include ../../img/social/facebook.svg
-        | &nbsp;
-        a(href='https://linkedin.com/in/#{content.about.meta.linkedinhandle}' target='_blank')
-          include ../../img/social/linkedin.svg
+      row.no-gutter
+        column.xsmall-6: ul.links
+          li: a(href='mailto:#{content.about.meta.email}')
+            include ../../img/social/mail.svg
+            | &nbsp; #{content.about.meta.email}
+          li: a(href='tel:+354#{content.about.meta.phone}')
+            include ../../img/social/phone.svg
+            | &nbsp; #{content.about.meta.phone}
+          li: a(href='https://linkedin.com/in/#{content.about.meta.linkedinhandle}' target='_blank')
+            include ../../img/social/linkedin.svg
+            | &nbsp; #{content.about.meta.linkedinhandle}
+        column.xsmall-6: ul.links
+          li: a(href='https://twitter.com/#{content.about.meta.twitterhandle}' target='_blank')
+            include ../../img/social/twitter.svg
+            | &nbsp; #{content.about.meta.twitterhandle}
+          li: a(href='https://facebook.com/#{content.about.meta.facebookhandle}' target='_blank')
+            include ../../img/social/facebook.svg
+            | &nbsp; #{content.about.meta.facebookhandle}
+          li
+            include ../../img/social/snapchat.svg
+            | &nbsp; #{content.about.meta.snapchathandle}
 
-  row: column(xsmall='10' xlarge='8' xxlarge='6')
-    | !{content.about.html}
-    p.text-center
+      | !{content.about.html}
+      p.text-center

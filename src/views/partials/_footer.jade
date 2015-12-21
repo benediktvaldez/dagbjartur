@@ -1,8 +1,10 @@
 
 footer
+  include ../../img/footer.svg
   if content.about.meta.enabled
     a(href='/about' is='section' section='about')
-  p
+  p … annað
+  //- p
     | #{content.about.meta.fullname}
     | &nbsp;|&nbsp;
     a(href='mailto:#{content.about.meta.email}')=content.about.meta.email

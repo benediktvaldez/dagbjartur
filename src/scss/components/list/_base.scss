@@ -9,12 +9,8 @@ ul {
     padding: 0;
 
     ul {
-      display: none;
-      padding: 0 $spacing/2;
-
-      &.show {
-        display: block;
-      }
+      margin: 0;
+      padding: 0;
     }
   }
 }
