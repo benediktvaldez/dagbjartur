@@ -1,6 +1,6 @@
 ---
-order: 1
-title: Sprengjuhöllin
+order: 4
+title: Plötur - Bestu kveðjur eftir Sprengjuhöllina
 ---
 
 ## Sprengjuhöllin
