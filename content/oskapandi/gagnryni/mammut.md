@@ -1,6 +1,6 @@
 ---
-order: 5
-title: Mammút
+order: 3
+title: Plötur - Karkari eftir Mammút
 ---
 
 ## Mammút
