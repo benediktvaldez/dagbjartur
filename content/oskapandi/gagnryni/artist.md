@@ -1,6 +1,6 @@
 ---
-order: 2
-title: The Artist
+order: 1
+title: Kvikmyndir - The Artist
 ---
 
 ## The Artist
@@ -9,7 +9,7 @@ title: The Artist
 
 **7.0**
 
-Í endalausu umróti kjarnorkugrafíkur og þriggja vídda tekur kvikmyndamarkaðurinn óvæntan viðsnúning með myndinni The Artist. Á meðan megni þess sem kvikmyndahúsin taka inn eru nýjar myndir í þrívídd og endurgerðir gamalla stórvirkja í jafnmörgum er okkur sendur lítill vonarneysti frá Frakklandi. The Artist var valin besta myndin á Golden Globe-verðlaunahátíðinni og hefur nú verið tilnefnd til 10 Óskarsverðlauna.
+Í endalausu umróti kjarnorkugrafíkur og þriggja vídda tekur kvikmyndamarkaðurinn óvæntan viðsnúning með myndinni The Artist. Á meðan megni þess sem kvikmyndahúsin taka inn eru nýjar myndir í þrívídd og endurgerðir gamalla stórvirkja í jafnmörgum er okkur sent lítið ljós frá Frakklandi. The Artist var valin besta myndin á Golden Globe-verðlaunahátíðinni og hefur nú verið tilnefnd til 10 Óskarsverðlauna.
 
 Myndin um listamanninn hefst árið 1927 en það ár er almennt talið marka upphaf snarpra endaloka hinna þöglu kvikmynda. Hér er sögð saga George Valentin, sem er sjálfhverfur og drambsamur leikari, en jafnframt ein dáðasta stjarna Hollywoodland (eins og stóð á skilti kvikmyndaborgarinnar til ársins 1949).
 
