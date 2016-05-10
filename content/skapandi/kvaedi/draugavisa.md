@@ -1,0 +1,16 @@
+---
+order: 4
+title: Draugavísa
+---
+
+## Draugavísa
+
+Eins og vatnsins straumur stríði  
+stanslaust fægir bakkans rönd,  
+treysta máttu að tíminn líði  
+og teymi okkur hönd við hönd.  
+
+En þótt að árin komi og hverfi  
+og klárist síðast dvölin hér,  
+lífsins böl við engan erfi  
+ef aftur gengur þú með mér.  
