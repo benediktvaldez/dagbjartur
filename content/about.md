@@ -5,7 +5,7 @@ enabled: true
 
 aboutflipi: Um höfund
 
-image: selfie1.png
+image: selfie5.png
 fullname: Dagbjartur Gunnar Lúðvíksson
 shortname: Dagbjartur
 phone: 6636219
