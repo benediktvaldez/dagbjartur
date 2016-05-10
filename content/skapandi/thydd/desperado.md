@@ -16,8 +16,8 @@ title: Desperado
 | These things that are pleasin' you                   | Þessir hlutir sem að fullnægja þér
 | Can hurt you somehow                                 | geta meitt þig einhvern vegin.
 |                                                      | 
-| Don't you draw the queen of diamonds, boy            | Ekki draga tíguldrottninguna
-| She'll beat you if she's able                        | Fýr, hún lemur þig ef hún getur.
+| Don't you draw the queen of diamonds                 | Ekki draga tíguldrottninguna
+| Boy, she'll beat you if she's able                   | Fýr, hún lemur þig ef hún getur.
 | You know the queen of hearts is always your best bet | Þú veist að hjartadrottning er réttur hestur.
 
 
