@@ -3,7 +3,8 @@ include _prettyDate
 include _showJson
 
 mixin navChapter(item)
-  a(href=item.path is='group' group=item.id): span=item.meta.title
+  if item && item.meta
+    a(href=item.path is='group' group=item.id): span=item.meta.title
 
 mixin navItem(item, group)
   - group = group.id || 'nope';
