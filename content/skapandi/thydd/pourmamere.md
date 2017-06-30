@@ -19,4 +19,4 @@ title: Pour ma mère
 | Pour ma mère en mon cœur   | fyrir mömmu frá mér
 | Qu’on ne pourrait en donner| en gefið ég get.
 
-*Pour ma mère er frönsk barnagæla. Ég veit ekki hvort hún eigi sér lag en við Benedikt Valdez, sem smíðaði þessa síðu, sömdum okkar eigið lag við hana sumarið 2009 eða 2010. Við höfum síðan flutt hana með fléttu af upphaflega textanum og fyrri þýðingunni við ýmis tilefni. Ég er bæði meðvitaður um og sé eftir því að hafa slátrað bragarhætti vísunnar við þýðinguna.*
+*Pour ma mère er frönsk barnagæla. Ég veit ekki hvort hún eigi sér lag en við Benedikt Valdez, sem smíðaði þessa síðu, sömdum okkar eigið lag við hana sumarið 2009 eða 2010. Við höfum síðan flutt hana með fléttu af upphaflega textanum og þýðingunni við ýmis tilefni.*
