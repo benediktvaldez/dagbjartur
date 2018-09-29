@@ -1,6 +1,6 @@
 ---
-title: Dagbjartur Gunnar Lúðvíksson
-description: Þetta er portfolio Dagbjarts Gunnars Lúðvíkssonar
+title: Ákall til ungliðaheyfinga:
+description: Ekki vera klappstýrur
 
 skapandiTitle: Skapandi skrif
 oskapandiTitle: Pistlar & fróðleikur
