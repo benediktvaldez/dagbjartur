@@ -1,5 +1,5 @@
 ---
-title: Ákall til ungliðaheyfinga:
+title: Ákall til ungliðaheyfinga
 description: Ekki vera klappstýrur
 
 skapandiTitle: Skapandi skrif
