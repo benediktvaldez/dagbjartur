@@ -9,7 +9,7 @@ image: selfie5.png
 fullname: Dagbjartur Gunnar Lúðvíksson
 shortname: Dagbjartur
 phone: 6636219
-email: velst@dagbjartur.me
+email: vefpostthjonusta@dagbjartur.me
 twitterhandle: dagbjartur
 facebookhandle: dagbjartur.gunnar
 linkedinhandle: dagbjartur
