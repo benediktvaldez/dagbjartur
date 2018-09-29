@@ -18,3 +18,9 @@ Ef það væri rétt að konur hefðu ekki áhuga á árangri og frama þá hef�
 Á 100 ára afmæli kosninga- og kjörgengisréttar kvenna hafa færri en 100 konur verið Alþingismenn. Miðað við fækkun á hlutfalli kvenna á Alþingi í síðustu kosningum, þrátt fyrir hlutfallslega fjölgun kvenna í framboði, eigum við ennþá nokkuð í land - bæði í pólitík og menningu. Baráttan fyrir jöfnum rétti kynjanna er hvergi nærri yfirstaðin en það þýðir samt ekki að við ættum ekki að fagna þeim jákvæðu breytingum sem þegar hafa orðið. Í dag skulum við gleðjast og svo heldur baráttan áfram.
 
 Til hamingju með daginn! 
+
+
+
+
+
+.
