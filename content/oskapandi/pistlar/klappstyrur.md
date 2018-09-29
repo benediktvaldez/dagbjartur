@@ -19,5 +19,11 @@ Umrædd gjá er ekki séríslenskt fyrirbæri. Þannig benda kannanir til þess 
 
 Nú er tímabil aðalfunda ungliðahreyfinga gengið í garð, nokkrar hafa þegar kosið sér nýjar stjórnir og mín mun gera það á morgun. Því beini ég ákalli til næstu stjórnar minnar eigin hreyfingar og stjórna allra ungliðahreyfinga stjórnmálaflokka á landinu að líta ekki á sig sem klappstýrur fyrir stefnu flokkanna sinna heldur móta sína eigin málefnastefnu og berjast fyrir innleiðingu hennar í stefnuskrá flokkanna. Baráttan í mínum flokki hefur gengið vel, enda tóku ungliðar þátt í stofnun flokksins og sitja í öllum málefnanefndum, sama hvort þær snúi að jafnréttismálum, efnahagsmálum, utanríkismálum eða öðru. Allir flokkar þurfa að hlusta á ungliðana sína og með hverri nýrri kynslóð fæðast nýjar áherslur sem þörf er á að innleiða. Ef það tekst má bæði klappa og klappstýra en aldrei láta eins og baráttunni sé lokið.
 
-*Dagbjartur Gunnar Lúðvíksson*
+*Dagbjartur Gunnar Lúðvíksson*    
 *Formaður Uppreisnar, ungliðahreyfingar Viðreisnar*
+
+
+
+
+
+.
