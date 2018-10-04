@@ -1,6 +1,6 @@
 ---
-title: Ákall til ungliðaheyfinga
-description: Ekki vera klappstýrur
+title: Dagbjartur Gunnar
+description: Gagn og gaman
 
 skapandiTitle: Skapandi skrif
 oskapandiTitle: Pistlar & fróðleikur
